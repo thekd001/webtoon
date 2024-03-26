@@ -1,0 +1,162 @@
+{
+  "titleList": [
+    {
+      "titleId": 784852,
+      "titleName": "어메이징 스파이더맨",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/784852/thumbnail/thumbnail_IMAG21_3703421683129267001.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [{ "id": 351205, "name": "닉 스펜서" }],
+        "painters": [{ "id": 351207, "name": "라이언 오틀리" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "닉 스펜서 / 라이언 오틀리",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 787372,
+      "titleName": "게임의 법칙",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/787372/thumbnail/thumbnail_IMAG21_5e2871be-3114-4b55-be8d-2c7c57906cdf.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [{ "id": 352311, "name": "유티스트" }],
+        "painters": [{ "id": 352311, "name": "유티스트" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "유티스트",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 799561,
+      "titleName": "하이웨이 투 헬",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/799561/thumbnail/thumbnail_IMAG21_32eadd33-ff1d-4311-8d77-2fd197a91644.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [{ "id": 357947, "name": "가개비" }],
+        "painters": [{ "id": 357947, "name": "가개비" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "가개비",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 800598,
+      "titleName": "시크릿 플레이어",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800598/thumbnail/thumbnail_IMAG21_40fbbde6-aded-4efb-8625-b011425668fe.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [{ "id": 366603, "name": "냠냠이" }],
+        "painters": [{ "id": 358466, "name": "나지하지" }],
+        "originAuthors": [{ "id": 358464, "name": "산지직송" }]
+      },
+      "displayAuthor": "냠냠이 / 나지하지 / 산지직송",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 801106,
+      "titleName": "전생했더니 신입사원",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/801106/thumbnail/thumbnail_IMAG21_2ce6a44b-c9c3-4f8b-a43f-9ec1077eeda9.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [{ "id": 358728, "name": "뭉쥐" }],
+        "painters": [{ "id": 358729, "name": "예환" }],
+        "originAuthors": [{ "id": 358730, "name": "대나무집" }]
+      },
+      "displayAuthor": "뭉쥐 / 예환 / 대나무집",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 801590,
+      "titleName": "숲속에서 공작이 주운 것은",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/801590/thumbnail/thumbnail_IMAG21_ecb6616d-4f58-4a60-843b-690c593d8bdc.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [{ "id": 358958, "name": "이재원" }],
+        "painters": [{ "id": 358959, "name": "젭" }],
+        "originAuthors": [{ "id": 358961, "name": "MON쉘" }]
+      },
+      "displayAuthor": "이재원 / 젭 / MON쉘",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 803120,
+      "titleName": "두 번 사는 음악천재",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/803120/thumbnail/thumbnail_IMAG21_536ac08d-87a8-4ef7-9783-1e21f6694bed.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [
+          {
+            "id": 90,
+            "name": "정기림",
+            "blogUrl": "https://blog.naver.com/kirimee"
+          }
+        ],
+        "painters": [{ "id": 359661, "name": "슬아" }],
+        "originAuthors": [{ "id": 359662, "name": "이한이" }]
+      },
+      "displayAuthor": "정기림 / 슬아 / 이한이",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 806823,
+      "titleName": "잠입! 재벌고",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/806823/thumbnail/thumbnail_IMAG21_20b48ed5-eecf-4ded-800a-dcf8463864f2.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [
+          {
+            "id": 363492,
+            "name": "AJ",
+            "blogUrl": "https://blog.naver.com/dusrhx"
+          }
+        ],
+        "painters": [
+          {
+            "id": 363492,
+            "name": "AJ",
+            "blogUrl": "https://blog.naver.com/dusrhx"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "AJ",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 807080,
+      "titleName": "악마는 없다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807080/thumbnail/thumbnail_IMAG21_8fb89086-c27d-454b-a118-2c93d8125882.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [{ "id": 363673, "name": "없는사람" }],
+        "painters": [{ "id": 363673, "name": "없는사람" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "없는사람",
+      "up": true,
+      "rest": false
+    },
+    {
+      "titleId": 807170,
+      "titleName": "성좌들이 내 제자",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807170/thumbnail/thumbnail_IMAG21_4b92f2cb-f9ea-4836-a61b-567601af411d.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "author": {
+        "writers": [{ "id": 363794, "name": "차지운" }],
+        "painters": [{ "id": 363795, "name": "스튜디오 이너스" }],
+        "originAuthors": [{ "id": 333476, "name": "방구석김씨" }]
+      },
+      "displayAuthor": "차지운 / 스튜디오 이너스 / 방구석김씨",
+      "up": true,
+      "rest": false
+    }
+  ]
+}

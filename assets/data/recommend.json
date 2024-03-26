@@ -1,0 +1,98 @@
+{
+  "titleList": [
+    {
+      "titleId": 752299,
+      "titleName": "범고래아가씨",
+      "thumbnailUrl": "https://image-comic.pstatic.net/user_contents_data/challenge_comic/2024/01/20/324296/upload_4135259041895244641_202x164.jpeg",
+      "thumbnailBadgeList": [],
+      "webtoonLevelCode": "BEST_CHALLENGE",
+      "author": {
+        "writers": [{ "id": 324296, "name": "딩폴" }],
+        "painters": [],
+        "originAuthors": []
+      },
+      "up": true,
+      "rest": false,
+      "starScore": 9.65107,
+      "viewCount": 2043921
+    },
+    {
+      "titleId": 814577,
+      "titleName": "딜리셔스 베리 머치",
+      "thumbnailUrl": "https://image-comic.pstatic.net/user_contents_data/challenge_comic/2024/01/04/367863/upload_7004615172752160311_202x164.jpeg",
+      "thumbnailBadgeList": [],
+      "webtoonLevelCode": "BEST_CHALLENGE",
+      "author": {
+        "writers": [{ "id": 367863, "name": "고밍순" }],
+        "painters": [],
+        "originAuthors": []
+      },
+      "up": true,
+      "rest": false,
+      "starScore": 9.35714,
+      "viewCount": 85177
+    },
+    {
+      "titleId": 612045,
+      "titleName": "안녕하세요 간호사입니다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/user_contents_data/challenge_comic/2024/03/25/131994/upload_7090407861732454753_202x164.jpeg",
+      "thumbnailBadgeList": [],
+      "webtoonLevelCode": "BEST_CHALLENGE",
+      "author": {
+        "writers": [{ "id": 131994, "name": "잽서" }],
+        "painters": [],
+        "originAuthors": []
+      },
+      "up": true,
+      "rest": false,
+      "starScore": 9.81473,
+      "viewCount": 2240091
+    },
+    {
+      "titleId": 726814,
+      "titleName": "158동 진상부부",
+      "thumbnailUrl": "https://image-comic.pstatic.net/user_contents_data/challenge_comic/2023/03/12/324739/upload_4051322353419891513_202x164.jpeg",
+      "thumbnailBadgeList": [],
+      "webtoonLevelCode": "BEST_CHALLENGE",
+      "author": {
+        "writers": [{ "id": 324739, "name": "진상부부" }],
+        "painters": [],
+        "originAuthors": []
+      },
+      "up": true,
+      "rest": false,
+      "starScore": 9.53588,
+      "viewCount": 3748932
+    },
+    {
+      "titleId": 670415,
+      "titleName": "용사님은 직장인",
+      "thumbnailUrl": "https://image-comic.pstatic.net/user_contents_data/challenge_comic/2024/03/24/219622/upload_3545798977606857016_202x164.jpeg",
+      "webtoonLevelCode": "CHALLENGE",
+      "author": {
+        "writers": [{ "id": 219622, "name": "dnoq****" }],
+        "painters": [],
+        "originAuthors": []
+      },
+      "up": false,
+      "rest": false,
+      "starScore": 8.54891,
+      "viewCount": 190
+    },
+    {
+      "titleId": 745689,
+      "titleName": "닥터캥 인 텍사스",
+      "thumbnailUrl": "https://image-comic.pstatic.net/user_contents_data/challenge_comic/2021/08/21/333383/thumbnail_202x1643eebf025_2154_4b92_865a_9e527ffd5feb_00000706.JPEG",
+      "webtoonLevelCode": "CHALLENGE",
+      "author": {
+        "writers": [{ "id": 333383, "name": "Kangbahk" }],
+        "painters": [],
+        "originAuthors": []
+      },
+      "up": false,
+      "rest": false,
+      "starScore": 8.61022,
+      "viewCount": 74220
+    }
+  ]
+}

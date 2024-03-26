@@ -1,0 +1,95 @@
+{
+  "genreType": "PURE",
+  "titleList": [
+    {
+      "titleId": 802293,
+      "titleName": "앞집나리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802293/thumbnail/thumbnail_IMAG21_a3e4736d-dfd6-4e76-aec6-b145f4123845.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": false,
+      "rest": false,
+      "rank": 1
+    },
+    {
+      "titleId": 821589,
+      "titleName": "순결을 그대에게",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821589/thumbnail/thumbnail_IMAG21_0e3cdac8-e080-440f-82da-275dbb58d822.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": false,
+      "rest": false,
+      "rank": 2
+    },
+    {
+      "titleId": 735661,
+      "titleName": "재혼 황후",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/735661/thumbnail/thumbnail_IMAG21_4b3c44a0-f286-4878-bac3-84c3ec9dc0a1.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 3
+    },
+    {
+      "titleId": 817859,
+      "titleName": "왕과의 야행",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817859/thumbnail/thumbnail_IMAG21_4fadf2ae-3467-4a9d-a6be-4b0313b963e0.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": true,
+      "rest": false,
+      "rank": 4
+    },
+    {
+      "titleId": 774862,
+      "titleName": "조조코믹스",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/774862/thumbnail/thumbnail_IMAG21_39b7c327-7234-4636-b608-401478abede3.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 5
+    },
+    {
+      "titleId": 785251,
+      "titleName": "시월드가 내게 집착한다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/785251/thumbnail/thumbnail_IMAG21_c71f43a5-e252-4466-93af-ff7a606b271f.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 6
+    },
+    {
+      "titleId": 796867,
+      "titleName": "버림받은 왕녀의 은밀한 침실",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/796867/thumbnail/thumbnail_IMAG21_77aa5064-b42b-4838-912e-2c6266c53a74.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": true,
+      "rest": false,
+      "rank": 7
+    },
+    {
+      "titleId": 798917,
+      "titleName": "언니, 이번 생엔 내가 왕비야",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/798917/thumbnail/thumbnail_IMAG21_35c1a390-7598-418e-9902-dc9a84f22d8b.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 8
+    },
+    {
+      "titleId": 724815,
+      "titleName": "아홉수 우리들",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/724815/thumbnail/thumbnail_IMAG21_4bdd52f2-bbc9-4524-b44b-adc1e7208f93.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 9
+    },
+    {
+      "titleId": 738487,
+      "titleName": "하루만 네가 되고 싶어",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/738487/thumbnail/thumbnail_IMAG21_e7291231-deea-4bc8-9479-ed6dbe42dc43.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 10
+    }
+  ]
+}

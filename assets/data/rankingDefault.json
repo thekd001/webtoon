@@ -1,0 +1,324 @@
+{
+  "defaultSortType": "total",
+  "totalRankingTitleList": [
+    {
+      "rank": 1,
+      "titleId": 758037,
+      "titleName": "참교육",
+      "author": {
+        "writers": [
+          {
+            "id": 301243,
+            "name": "채용택",
+            "blogUrl": "https://blog.naver.com/cyt316"
+          }
+        ],
+        "painters": [{ "id": 314484, "name": "한가람", "blogUrl": "" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "채용택 / 한가람",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758037/thumbnail/thumbnail_IMAG21_15cb2611-34c0-4f02-a689-41d0b1016579.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 2,
+      "titleId": 783052,
+      "titleName": "퀘스트지상주의",
+      "author": {
+        "writers": [
+          { "id": 351540, "name": "박만사" },
+          { "id": 371675, "name": "유누니" }
+        ],
+        "painters": [
+          { "id": 351540, "name": "박만사" },
+          { "id": 371676, "name": "태완" }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "박만사, 유누니 / 박만사, 태완",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783052/thumbnail/thumbnail_IMAG21_800f4c56-26ac-419e-9ed0-baf322311dea.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 3,
+      "titleId": 758150,
+      "titleName": "입학용병",
+      "author": {
+        "writers": [{ "id": 339324, "name": "YC" }],
+        "painters": [{ "id": 339325, "name": "락현" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "YC / 락현",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758150/thumbnail/thumbnail_IMAG21_4135492154714961716.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    },
+    {
+      "rank": 4,
+      "titleId": 648419,
+      "titleName": "뷰티풀 군바리",
+      "author": {
+        "writers": [
+          {
+            "id": 286381,
+            "name": "설이",
+            "blogUrl": "https://blog.naver.com/sic86"
+          }
+        ],
+        "painters": [
+          {
+            "id": 286382,
+            "name": "윤성원",
+            "blogUrl": "https://blog.naver.com/traviche"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "설이 / 윤성원",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/648419/thumbnail/thumbnail_IMAG21_d9398229-cbfd-47dc-9208-0a6fb936f3a7.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 5,
+      "titleId": 641253,
+      "titleName": "외모지상주의",
+      "author": {
+        "writers": [
+          {
+            "id": 283063,
+            "name": "박태준",
+            "blogUrl": "https://blog.naver.com/thesooha"
+          }
+        ],
+        "painters": [
+          {
+            "id": 283063,
+            "name": "박태준",
+            "blogUrl": "https://blog.naver.com/thesooha"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "박태준",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/641253/thumbnail/thumbnail_IMAG21_01672165-03c8-44b1-ba0e-ef82c9cfcd10.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    }
+  ],
+  "maleRankingTitleList": [
+    {
+      "rank": 1,
+      "titleId": 783052,
+      "titleName": "퀘스트지상주의",
+      "author": {
+        "writers": [
+          { "id": 351540, "name": "박만사" },
+          { "id": 371675, "name": "유누니" }
+        ],
+        "painters": [
+          { "id": 351540, "name": "박만사" },
+          { "id": 371676, "name": "태완" }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "박만사, 유누니 / 박만사, 태완",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783052/thumbnail/thumbnail_IMAG21_800f4c56-26ac-419e-9ed0-baf322311dea.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 2,
+      "titleId": 758037,
+      "titleName": "참교육",
+      "author": {
+        "writers": [
+          {
+            "id": 301243,
+            "name": "채용택",
+            "blogUrl": "https://blog.naver.com/cyt316"
+          }
+        ],
+        "painters": [{ "id": 314484, "name": "한가람", "blogUrl": "" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "채용택 / 한가람",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758037/thumbnail/thumbnail_IMAG21_15cb2611-34c0-4f02-a689-41d0b1016579.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 3,
+      "titleId": 758150,
+      "titleName": "입학용병",
+      "author": {
+        "writers": [{ "id": 339324, "name": "YC" }],
+        "painters": [{ "id": 339325, "name": "락현" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "YC / 락현",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758150/thumbnail/thumbnail_IMAG21_4135492154714961716.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    },
+    {
+      "rank": 4,
+      "titleId": 641253,
+      "titleName": "외모지상주의",
+      "author": {
+        "writers": [
+          {
+            "id": 283063,
+            "name": "박태준",
+            "blogUrl": "https://blog.naver.com/thesooha"
+          }
+        ],
+        "painters": [
+          {
+            "id": 283063,
+            "name": "박태준",
+            "blogUrl": "https://blog.naver.com/thesooha"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "박태준",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/641253/thumbnail/thumbnail_IMAG21_01672165-03c8-44b1-ba0e-ef82c9cfcd10.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    },
+    {
+      "rank": 5,
+      "titleId": 602910,
+      "titleName": "윈드브레이커",
+      "author": {
+        "writers": [
+          {
+            "id": 266740,
+            "name": "조용석",
+            "blogUrl": "https://blog.naver.com/hunter0n"
+          }
+        ],
+        "painters": [
+          {
+            "id": 266740,
+            "name": "조용석",
+            "blogUrl": "https://blog.naver.com/hunter0n"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "조용석",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/602910/thumbnail/thumbnail_IMAG21_e861f2cf-6157-4d33-8e02-7b4cbf0a8baf.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    }
+  ],
+  "femaleRankingTitleList": [
+    {
+      "rank": 1,
+      "titleId": 654774,
+      "titleName": "소녀의 세계",
+      "author": {
+        "writers": [
+          {
+            "id": 289382,
+            "name": "모랑지",
+            "blogUrl": "https://blog.naver.com/morangg"
+          }
+        ],
+        "painters": [
+          {
+            "id": 289382,
+            "name": "모랑지",
+            "blogUrl": "https://blog.naver.com/morangg"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "모랑지",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/654774/thumbnail/thumbnail_IMAG21_4048794550434817075.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 2,
+      "titleId": 805702,
+      "titleName": "토마토가 돼라!",
+      "author": {
+        "writers": [{ "id": 360908, "name": "뮤리" }],
+        "painters": [{ "id": 360908, "name": "뮤리" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "뮤리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/805702/thumbnail/thumbnail_IMAG21_d862f8dd-6f21-4abf-a51c-7e00128aaae4.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 3,
+      "titleId": 817859,
+      "titleName": "왕과의 야행",
+      "author": {
+        "writers": [{ "id": 372337, "name": "보리" }],
+        "painters": [{ "id": 372337, "name": "보리" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "보리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817859/thumbnail/thumbnail_IMAG21_4fadf2ae-3467-4a9d-a6be-4b0313b963e0.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 4,
+      "titleId": 758037,
+      "titleName": "참교육",
+      "author": {
+        "writers": [
+          {
+            "id": 301243,
+            "name": "채용택",
+            "blogUrl": "https://blog.naver.com/cyt316"
+          }
+        ],
+        "painters": [{ "id": 314484, "name": "한가람", "blogUrl": "" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "채용택 / 한가람",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758037/thumbnail/thumbnail_IMAG21_15cb2611-34c0-4f02-a689-41d0b1016579.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 5,
+      "titleId": 796867,
+      "titleName": "버림받은 왕녀의 은밀한 침실",
+      "author": {
+        "writers": [{ "id": 288281, "name": "혜니", "blogUrl": "" }],
+        "painters": [{ "id": 288281, "name": "혜니", "blogUrl": "" }],
+        "originAuthors": [{ "id": 344298, "name": "성혜림" }]
+      },
+      "displayAuthor": "혜니 / 성혜림",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/796867/thumbnail/thumbnail_IMAG21_77aa5064-b42b-4838-912e-2c6266c53a74.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": true,
+      "rest": false
+    }
+  ]
+}

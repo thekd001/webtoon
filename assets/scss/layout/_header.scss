@@ -1,0 +1,109 @@
+.header{
+    .header-top{
+        border-bottom: 1px solid #ebebeb;
+        .inner{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            height: 63px;
+            .logo-area{
+                display: flex;
+                align-items: center;
+                .link-list{
+                    display: flex;
+                    align-items: center;
+                    .first{
+                        margin-left: 10px;
+                    }
+                    .link-item{
+                        display: flex;
+                        align-items: center;                        
+                        &::before{
+                            content:'';
+                            display: inline-block;
+                            width: 1px;
+                            height: 13px;
+                            background: #ebebeb;
+                            margin: 0 8px;
+                        }
+                        &.first::before{
+                            display: none;
+                        }
+                    }
+                }
+            }
+            .search-area{
+                display: flex;
+                align-items: center;
+                fieldset{
+                    display: flex;
+                    width: 270px;
+                    border: 1px solid #e0e0e0;
+                    align-items: center;
+                    input{
+                        flex: 1;
+                        border: 0;
+                        line-height: 35px;
+                        padding: 0 0 0 10px;
+                        font-size: 14px;
+                        &::placeholder{
+                            color: #ccc;
+                        }
+                    }
+                    .btn-submit{
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        width: 35px;
+                        height: 35px;
+                    }
+                }
+                .link-login{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    color: #444;
+                    margin: 0 18px;
+                    font-size: 12px;
+                    width: 46px;
+                    height: 20px;
+                    border: 1px solid #ddd;
+                    font-family: '나눔고딕',NanumGothic,'돋움',Dotum,'Apple SD Gothic Neo',Helvetica,Sans-serif !important;
+                }
+                .link-more{
+                    display: block;
+                    width: 16px;
+                    height: 16px;
+                    background: url("/assets/images/sp-bg.png") no-repeat;
+                    background-position: -2px -130px;
+                    &:hover{
+                       background-position: -37px -130px;
+                    }
+                }
+            }
+        }        
+    }
+    .header-bottom{
+        border-bottom: 1px solid #ebebeb;
+        .inner{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;            
+            .btn-area{
+                .btn-creator{
+                    position: relative;
+                    padding: 0 33px;
+                    height: 39px;
+                    line-height: 39;
+                    background: #00dc64;
+                    border-radius: 4px;
+                    .ic-new{
+                        position: absolute;
+                        top: 5px;
+                        right: 18px;
+                    }
+                }
+            }
+        }
+    }
+}

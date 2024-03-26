@@ -1,0 +1,258 @@
+{
+  "defaultSortType": "total",
+  "totalRankingTitleList": [
+    {
+      "rank": 1,
+      "titleId": 821195,
+      "titleName": "회귀한 공작가의 막내도련님은 암살자",
+      "author": {
+        "writers": [{ "id": 348481, "name": "스윙뱃" }],
+        "painters": [{ "id": 348481, "name": "스윙뱃" }],
+        "originAuthors": [{ "id": 375336, "name": "커피라임" }]
+      },
+      "displayAuthor": "스윙뱃 / 커피라임",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821195/thumbnail/thumbnail_IMAG21_4eff0192-8237-4ec7-b74c-bd66cfd25d51.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 2,
+      "titleId": 822573,
+      "titleName": "귀촌리",
+      "author": {
+        "writers": [{ "id": 328209, "name": "황양" }],
+        "painters": [{ "id": 376494, "name": "이대한" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "황양 / 이대한",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822573/thumbnail/thumbnail_IMAG21_d5b20239-59d8-4274-85ef-3d096420738c.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 3,
+      "titleId": 822657,
+      "titleName": "환생천마",
+      "author": {
+        "writers": [{ "id": 348256, "name": "JP" }],
+        "painters": [{ "id": 323121, "name": "부겸" }],
+        "originAuthors": [{ "id": 376586, "name": "장영훈" }]
+      },
+      "displayAuthor": "JP / 부겸 / 장영훈",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822657/thumbnail/thumbnail_IMAG21_99e49512-e05d-48c3-846d-d898f78523df.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 4,
+      "titleId": 821597,
+      "titleName": "괴력 난신",
+      "author": {
+        "writers": [{ "id": 375577, "name": "매드버드" }],
+        "painters": [{ "id": 375579, "name": "김태형" }],
+        "originAuthors": [{ "id": 347598, "name": "한중월야" }]
+      },
+      "displayAuthor": "매드버드 / 김태형 / 한중월야",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821597/thumbnail/thumbnail_IMAG21_d39e65d8-6ffd-4024-be77-dbeb87db820c.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    },
+    {
+      "rank": 5,
+      "titleId": 821851,
+      "titleName": "기기괴괴2",
+      "author": {
+        "writers": [
+          {
+            "id": 30,
+            "name": "오성대",
+            "blogUrl": "https://blog.naver.com/cenioh"
+          }
+        ],
+        "painters": [
+          {
+            "id": 30,
+            "name": "오성대",
+            "blogUrl": "https://blog.naver.com/cenioh"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "오성대",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821851/thumbnail/thumbnail_IMAG21_d67261bc-0aea-495c-b92e-07dc2c1785cd.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    }
+  ],
+  "maleRankingTitleList": [
+    {
+      "rank": 1,
+      "titleId": 821195,
+      "titleName": "회귀한 공작가의 막내도련님은 암살자",
+      "author": {
+        "writers": [{ "id": 348481, "name": "스윙뱃" }],
+        "painters": [{ "id": 348481, "name": "스윙뱃" }],
+        "originAuthors": [{ "id": 375336, "name": "커피라임" }]
+      },
+      "displayAuthor": "스윙뱃 / 커피라임",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821195/thumbnail/thumbnail_IMAG21_4eff0192-8237-4ec7-b74c-bd66cfd25d51.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 2,
+      "titleId": 822573,
+      "titleName": "귀촌리",
+      "author": {
+        "writers": [{ "id": 328209, "name": "황양" }],
+        "painters": [{ "id": 376494, "name": "이대한" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "황양 / 이대한",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822573/thumbnail/thumbnail_IMAG21_d5b20239-59d8-4274-85ef-3d096420738c.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 3,
+      "titleId": 822657,
+      "titleName": "환생천마",
+      "author": {
+        "writers": [{ "id": 348256, "name": "JP" }],
+        "painters": [{ "id": 323121, "name": "부겸" }],
+        "originAuthors": [{ "id": 376586, "name": "장영훈" }]
+      },
+      "displayAuthor": "JP / 부겸 / 장영훈",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822657/thumbnail/thumbnail_IMAG21_99e49512-e05d-48c3-846d-d898f78523df.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 4,
+      "titleId": 821597,
+      "titleName": "괴력 난신",
+      "author": {
+        "writers": [{ "id": 375577, "name": "매드버드" }],
+        "painters": [{ "id": 375579, "name": "김태형" }],
+        "originAuthors": [{ "id": 347598, "name": "한중월야" }]
+      },
+      "displayAuthor": "매드버드 / 김태형 / 한중월야",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821597/thumbnail/thumbnail_IMAG21_d39e65d8-6ffd-4024-be77-dbeb87db820c.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    },
+    {
+      "rank": 5,
+      "titleId": 821851,
+      "titleName": "기기괴괴2",
+      "author": {
+        "writers": [
+          {
+            "id": 30,
+            "name": "오성대",
+            "blogUrl": "https://blog.naver.com/cenioh"
+          }
+        ],
+        "painters": [
+          {
+            "id": 30,
+            "name": "오성대",
+            "blogUrl": "https://blog.naver.com/cenioh"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "오성대",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821851/thumbnail/thumbnail_IMAG21_d67261bc-0aea-495c-b92e-07dc2c1785cd.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    }
+  ],
+  "femaleRankingTitleList": [
+    {
+      "rank": 1,
+      "titleId": 822556,
+      "titleName": "유부 감자",
+      "author": {
+        "writers": [{ "id": 376195, "name": "감자" }],
+        "painters": [{ "id": 376195, "name": "감자" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "감자",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822556/thumbnail/thumbnail_IMAG21_46b37b9f-0a73-43e0-982a-1cf5666397c7.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    },
+    {
+      "rank": 2,
+      "titleId": 822111,
+      "titleName": "날 닮은 아이",
+      "author": {
+        "writers": [{ "id": 351605, "name": "플아다" }],
+        "painters": [{ "id": 376065, "name": "팻녹" }],
+        "originAuthors": [{ "id": 351605, "name": "플아다" }]
+      },
+      "displayAuthor": "플아다 / 팻녹",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822111/thumbnail/thumbnail_IMAG21_562021ce-a1c5-4b72-a00e-ff85adacfde0.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false
+    },
+    {
+      "rank": 3,
+      "titleId": 821195,
+      "titleName": "회귀한 공작가의 막내도련님은 암살자",
+      "author": {
+        "writers": [{ "id": 348481, "name": "스윙뱃" }],
+        "painters": [{ "id": 348481, "name": "스윙뱃" }],
+        "originAuthors": [{ "id": 375336, "name": "커피라임" }]
+      },
+      "displayAuthor": "스윙뱃 / 커피라임",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821195/thumbnail/thumbnail_IMAG21_4eff0192-8237-4ec7-b74c-bd66cfd25d51.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    },
+    {
+      "rank": 4,
+      "titleId": 821953,
+      "titleName": "하자인간",
+      "author": {
+        "writers": [{ "id": 375928, "name": "안나래" }],
+        "painters": [{ "id": 375928, "name": "안나래" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "안나래",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821953/thumbnail/thumbnail_IMAG21_7c04c0b8-12d8-4337-b263-56624a1ca56a.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": false,
+      "rest": false
+    },
+    {
+      "rank": 5,
+      "titleId": 822573,
+      "titleName": "귀촌리",
+      "author": {
+        "writers": [{ "id": 328209, "name": "황양" }],
+        "painters": [{ "id": 376494, "name": "이대한" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "황양 / 이대한",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822573/thumbnail/thumbnail_IMAG21_d5b20239-59d8-4274-85ef-3d096420738c.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false
+    }
+  ]
+}

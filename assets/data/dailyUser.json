@@ -1,0 +1,1545 @@
+{
+  "dayName": "월",
+  "dayEngName": "mon",
+  "orderType": "USER",
+  "titleList": [
+    {
+      "titleId": 823022,
+      "titleName": "막장 악녀",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/823022/thumbnail/thumbnail_IMAG21_3e1387d0-0113-4f2a-99d6-fd6b1e60ee65.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "author": {
+        "writers": [{ "id": 322253, "name": "LICO" }],
+        "painters": [{ "id": 322253, "name": "LICO" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "LICO",
+      "up": true,
+      "rest": false,
+      "openToday": true
+    },
+    {
+      "titleId": 823001,
+      "titleName": "프로페서",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/823001/thumbnail/thumbnail_IMAG21_6d43223a-6c16-47bb-8a40-8f2f198c4079.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "author": {
+        "writers": [{ "id": 360069, "name": "다드래기" }],
+        "painters": [{ "id": 376858, "name": "노리" }],
+        "originAuthors": [{ "id": 376859, "name": "김연우" }]
+      },
+      "displayAuthor": "다드래기 / 노리 / 김연우",
+      "up": true,
+      "rest": false,
+      "openToday": true
+    },
+    {
+      "titleId": 758037,
+      "titleName": "참교육",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758037/thumbnail/thumbnail_IMAG21_15cb2611-34c0-4f02-a689-41d0b1016579.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 301243,
+            "name": "채용택",
+            "blogUrl": "https://blog.naver.com/cyt316"
+          }
+        ],
+        "painters": [{ "id": 314484, "name": "한가람", "blogUrl": "" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "채용택 / 한가람",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 648419,
+      "titleName": "뷰티풀 군바리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/648419/thumbnail/thumbnail_IMAG21_d9398229-cbfd-47dc-9208-0a6fb936f3a7.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 286381,
+            "name": "설이",
+            "blogUrl": "https://blog.naver.com/sic86"
+          }
+        ],
+        "painters": [
+          {
+            "id": 286382,
+            "name": "윤성원",
+            "blogUrl": "https://blog.naver.com/traviche"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "설이 / 윤성원",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 733074,
+      "titleName": "백수세끼",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/733074/thumbnail/thumbnail_IMAG21_80df3e76-47af-4007-b57c-e8f2830835e5.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 327731, "name": "치즈" }],
+        "painters": [{ "id": 327731, "name": "치즈" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "치즈",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 183559,
+      "titleName": "신의 탑",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/183559/thumbnail/thumbnail_IMAG21_5f3fec31-5c95-4afe-a73f-3046288edb47.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 155779,
+            "name": "SIU",
+            "blogUrl": "https://blog.naver.com/inutero3334"
+          }
+        ],
+        "painters": [
+          {
+            "id": 155779,
+            "name": "SIU",
+            "blogUrl": "https://blog.naver.com/inutero3334"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "SIU",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 817859,
+      "titleName": "왕과의 야행",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817859/thumbnail/thumbnail_IMAG21_4fadf2ae-3467-4a9d-a6be-4b0313b963e0.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "author": {
+        "writers": [{ "id": 372337, "name": "보리" }],
+        "painters": [{ "id": 372337, "name": "보리" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "보리",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 783052,
+      "titleName": "퀘스트지상주의",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783052/thumbnail/thumbnail_IMAG21_800f4c56-26ac-419e-9ed0-baf322311dea.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          { "id": 351540, "name": "박만사" },
+          { "id": 371675, "name": "유누니" }
+        ],
+        "painters": [
+          { "id": 351540, "name": "박만사" },
+          { "id": 371676, "name": "태완" }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "박만사, 유누니 / 태완",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 728750,
+      "titleName": "장씨세가 호위무사",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/728750/thumbnail/thumbnail_IMAG21_47c21251-b213-4882-bacc-15adce1acfc8.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 55,
+            "name": "김인호",
+            "blogUrl": "https://blog.naver.com/namjieun486"
+          }
+        ],
+        "painters": [
+          {
+            "id": 55,
+            "name": "김인호",
+            "blogUrl": "https://blog.naver.com/namjieun486"
+          }
+        ],
+        "originAuthors": [{ "id": 325616, "name": "조형근" }]
+      },
+      "displayAuthor": "김인호 / 조형근",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 602910,
+      "titleName": "윈드브레이커",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/602910/thumbnail/thumbnail_IMAG21_e861f2cf-6157-4d33-8e02-7b4cbf0a8baf.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 266740,
+            "name": "조용석",
+            "blogUrl": "https://blog.naver.com/hunter0n"
+          }
+        ],
+        "painters": [
+          {
+            "id": 266740,
+            "name": "조용석",
+            "blogUrl": "https://blog.naver.com/hunter0n"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "조용석",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 654774,
+      "titleName": "소녀의 세계",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/654774/thumbnail/thumbnail_IMAG21_4048794550434817075.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 289382,
+            "name": "모랑지",
+            "blogUrl": "https://blog.naver.com/morangg"
+          }
+        ],
+        "painters": [
+          {
+            "id": 289382,
+            "name": "모랑지",
+            "blogUrl": "https://blog.naver.com/morangg"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "모랑지",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 795297,
+      "titleName": "신화급 귀속 아이템을 손에 넣었다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/795297/thumbnail/thumbnail_IMAG21_ceeeead6-8a9c-48ec-a793-f3cc092a0b10.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 356291, "name": "정선율" }],
+        "painters": [{ "id": 356292, "name": "헤스" }],
+        "originAuthors": [{ "id": 356291, "name": "정선율" }]
+      },
+      "displayAuthor": "정선율 / 헤스",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 796867,
+      "titleName": "버림받은 왕녀의 은밀한 침실",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/796867/thumbnail/thumbnail_IMAG21_77aa5064-b42b-4838-912e-2c6266c53a74.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "author": {
+        "writers": [{ "id": 288281, "name": "혜니", "blogUrl": "" }],
+        "painters": [{ "id": 288281, "name": "혜니", "blogUrl": "" }],
+        "originAuthors": [{ "id": 344298, "name": "성혜림" }]
+      },
+      "displayAuthor": "혜니 / 성혜림",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 774863,
+      "titleName": "팔이피플",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/774863/thumbnail/thumbnail_IMAG21_e390eaf4-cfcd-46bf-901f-93034135a314.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 292087, "name": "매미", "blogUrl": "" }],
+        "painters": [{ "id": 292088, "name": "희세", "blogUrl": "" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "매미 / 희세",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 796075,
+      "titleName": "절대검감",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/796075/thumbnail/thumbnail_IMAG21_31f75c4c-81c9-454a-8d92-9e23b577e1a5.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 356299, "name": "김두루미" }],
+        "painters": [{ "id": 356300, "name": "티아이" }],
+        "originAuthors": [{ "id": 347598, "name": "한중월야" }]
+      },
+      "displayAuthor": "김두루미 / 티아이 / 한중월야",
+      "up": false,
+      "rest": true,
+      "openToday": false
+    },
+    {
+      "titleId": 806189,
+      "titleName": "별난식당",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/806189/thumbnail/thumbnail_IMAG21_292de414-bd9a-418d-a4e9-d97060398223.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 315777,
+            "name": "HO9",
+            "blogUrl": "https://blog.naver.com/oeho0727"
+          }
+        ],
+        "painters": [
+          {
+            "id": 315777,
+            "name": "HO9",
+            "blogUrl": "https://blog.naver.com/oeho0727"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "HO9",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 821336,
+      "titleName": "여고생이 신인데 나만 괴롭힘",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821336/thumbnail/thumbnail_IMAG21_06740ea2-da7a-4e6d-a37f-02d6121a7680.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 317852,
+            "name": "박장고",
+            "blogUrl": "https://blog.naver.com/escstory1023"
+          }
+        ],
+        "painters": [{ "id": 351168, "name": "이우" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "박장고 / 이우",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 813552,
+      "titleName": "우아한 욕망",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/813552/thumbnail/thumbnail_IMAG21_c81f8080-3781-4789-9411-a171d501b01a.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "author": {
+        "writers": [{ "id": 369149, "name": "김종건" }],
+        "painters": [{ "id": 369149, "name": "김종건" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "김종건",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 817945,
+      "titleName": "어린이집 다니는 구나",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817945/thumbnail/thumbnail_IMAG21_120ad315-8518-4430-bb30-739654b49635.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 372411, "name": "구나" }],
+        "painters": [{ "id": 372411, "name": "구나" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "구나",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 821195,
+      "titleName": "회귀한 공작가의 막내도련님은 암살자",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821195/thumbnail/thumbnail_IMAG21_4eff0192-8237-4ec7-b74c-bd66cfd25d51.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "author": {
+        "writers": [{ "id": 348481, "name": "스윙뱃" }],
+        "painters": [{ "id": 348481, "name": "스윙뱃" }],
+        "originAuthors": [{ "id": 375336, "name": "커피라임" }]
+      },
+      "displayAuthor": "스윙뱃 / 커피라임",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 820897,
+      "titleName": "마왕을 그만둔 이유",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/820897/thumbnail/thumbnail_IMAG21_90f68f1d-cc97-4357-b7e8-de994918ff8d.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 337578, "name": "김대일" }],
+        "painters": [{ "id": 337578, "name": "김대일" }],
+        "originAuthors": [{ "id": 375283, "name": "이상혁" }]
+      },
+      "displayAuthor": "김대일 / 이상혁",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 759940,
+      "titleName": "만렙돌파",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/759940/thumbnail/thumbnail_IMAG21_3976787538998813497.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          { "id": 340141, "name": "성불예정" },
+          { "id": 365236, "name": "준1" }
+        ],
+        "painters": [{ "id": 340143, "name": "미노" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "성불예정, 준1 / 미노",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 822573,
+      "titleName": "귀촌리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822573/thumbnail/thumbnail_IMAG21_d5b20239-59d8-4274-85ef-3d096420738c.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "author": {
+        "writers": [{ "id": 328209, "name": "황양" }],
+        "painters": [{ "id": 376494, "name": "이대한" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "황양 / 이대한",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 818588,
+      "titleName": "진주",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818588/thumbnail/thumbnail_IMAG21_1819294f-07f1-439c-8a25-7bd880840fef.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          { "id": 351540, "name": "박만사" },
+          { "id": 372990, "name": "백두" }
+        ],
+        "painters": [
+          { "id": 333474, "name": "백승훈" },
+          { "id": 372990, "name": "백두" }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "박만사, 백두 / 백승훈",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 822657,
+      "titleName": "환생천마",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822657/thumbnail/thumbnail_IMAG21_99e49512-e05d-48c3-846d-d898f78523df.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "author": {
+        "writers": [{ "id": 348256, "name": "JP" }],
+        "painters": [{ "id": 323121, "name": "부겸" }],
+        "originAuthors": [{ "id": 376586, "name": "장영훈" }]
+      },
+      "displayAuthor": "JP / 부겸 / 장영훈",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 794421,
+      "titleName": "북부 공작님을 유혹하겠습니다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/794421/thumbnail/thumbnail_IMAG21_79eb2725-914a-4258-8be1-f11e6652400e.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 329208, "name": "가천가" }],
+        "painters": [{ "id": 355480, "name": "은하수" }],
+        "originAuthors": [{ "id": 355479, "name": "주시하" }]
+      },
+      "displayAuthor": "가천가 / 은하수 / 주시하",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 814594,
+      "titleName": "개같이 탈출",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814594/thumbnail/thumbnail_IMAG21_8746b12b-566e-4375-b0ab-1eaf48e17a1d.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 370140, "name": "갬쟈" }],
+        "painters": [{ "id": 370140, "name": "갬쟈" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "갬쟈",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 801710,
+      "titleName": "인섹터",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/801710/thumbnail/thumbnail_IMAG21_34aa900b-b42f-4335-bb97-6e85d30db2b8.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 359013, "name": "마카빔" }],
+        "painters": [{ "id": 359013, "name": "마카빔" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "마카빔",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 817365,
+      "titleName": "악당 가족이 독립을 반대한다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817365/thumbnail/thumbnail_IMAG21_fa059a74-ca14-4a89-b0d7-841a0c85139a.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 371910, "name": "밋츄" }],
+        "painters": [{ "id": 371911, "name": "하티" }],
+        "originAuthors": [{ "id": 363548, "name": "이흰" }]
+      },
+      "displayAuthor": "밋츄 / 하티 / 이흰",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 822193,
+      "titleName": "녹빛자정의 연인",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822193/thumbnail/thumbnail_IMAG21_1a3859b2-f10f-43fe-9462-e7ef5fec256f.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "author": {
+        "writers": [{ "id": 376139, "name": "백작" }],
+        "painters": [{ "id": 376139, "name": "백작" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "백작",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 21815,
+      "titleName": "히어로메이커",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/21815/thumbnail/thumbnail_IMAG21_7292511306663934265.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 66,
+            "name": "빤쓰",
+            "blogUrl": "https://blog.naver.com/bbanbbanse"
+          }
+        ],
+        "painters": [
+          {
+            "id": 66,
+            "name": "빤쓰",
+            "blogUrl": "https://blog.naver.com/bbanbbanse"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "빤쓰",
+      "up": false,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 752414,
+      "titleName": "리턴 투 플레이어",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/752414/thumbnail/thumbnail_IMAG21_2393ffc3-a0d0-4b3d-8291-fa3345d2d386.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 370342, "name": "레포" }],
+        "painters": [{ "id": 336654, "name": "세혼" }],
+        "originAuthors": [{ "id": 336851, "name": "인덱스" }]
+      },
+      "displayAuthor": "레포 / 세혼 / 인덱스",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 769663,
+      "titleName": "더블클릭",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/769663/thumbnail/thumbnail_IMAG21_935bf47d-9219-4f45-8a58-d5a7af13ce51.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 253665,
+            "name": "박수봉",
+            "blogUrl": "https://blog.naver.com/1991psbn"
+          },
+          { "id": 349064, "name": "김장훈" }
+        ],
+        "painters": [
+          {
+            "id": 253665,
+            "name": "박수봉",
+            "blogUrl": "https://blog.naver.com/1991psbn"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "박수봉, 김장훈",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 783535,
+      "titleName": "제왕",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783535/thumbnail/thumbnail_IMAG21_4b6a83cd-a5e9-408f-bbac-244f25240394.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 351600, "name": "김남규" }],
+        "painters": [
+          { "id": 323347, "name": "애풍" },
+          { "id": 351966, "name": "콘티메이커" }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "김남규 / 애풍, 콘티메이커",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 730174,
+      "titleName": "칼가는 소녀",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/730174/thumbnail/thumbnail_IMAG21_5bfd08ed-6ca8-4a27-9fab-d9fb15588d3a.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 326457, "name": "오리" }],
+        "painters": [{ "id": 326457, "name": "오리" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "오리",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 818780,
+      "titleName": "영업 천재가 되었다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818780/thumbnail/thumbnail_IMAG21_ad3cf05d-0b97-47f6-8d4b-181e5906fcca.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 373148, "name": "혜림" }],
+        "painters": [{ "id": 373148, "name": "혜림" }],
+        "originAuthors": [{ "id": 373149, "name": "댄킴" }]
+      },
+      "displayAuthor": "혜림 / 댄킴",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 814781,
+      "titleName": "미친 재능의 플레이어",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814781/thumbnail/thumbnail_IMAG21_c88e92fa-e109-47d6-8a59-912749ff3a40.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 370311, "name": "S-Nanyc" }],
+        "painters": [{ "id": 370312, "name": "호라칸" }],
+        "originAuthors": [{ "id": 370313, "name": "체나" }]
+      },
+      "displayAuthor": "S-Nanyc / 호라칸 / 체나",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 741891,
+      "titleName": "결혼생활 그림일기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/741891/thumbnail/thumbnail_IMAG21_47b971e4-00b6-451b-862e-1060bae5a80d.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 331848, "name": "은꼼지" }],
+        "painters": [{ "id": 331848, "name": "은꼼지" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "은꼼지",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 814742,
+      "titleName": "좀비묵시록 82-08",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814742/thumbnail/thumbnail_IMAG21_ec88007f-9d6f-43c2-9a4a-5cbdef1bbde4.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 370273, "name": "달아" }],
+        "painters": [
+          { "id": 351966, "name": "콘티메이커" },
+          { "id": 370274, "name": "경우" }
+        ],
+        "originAuthors": [{ "id": 364776, "name": "박스오피스" }]
+      },
+      "displayAuthor": "달아 / 콘티메이커, 경우 / 박스오피스",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 821763,
+      "titleName": "찔레꽃 그늘 아래",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821763/thumbnail/thumbnail_IMAG21_e30b6d66-4e6e-4c6f-91e8-13fa3f6f8d59.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "author": {
+        "writers": [{ "id": 375734, "name": "해람" }],
+        "painters": [{ "id": 375735, "name": "홍이" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "해람 / 홍이",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 821095,
+      "titleName": "함부로 친절하지 말라",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821095/thumbnail/thumbnail_IMAG21_c0674c58-dcbd-4d2b-946e-936c308978ad.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 375105, "name": "도림" }],
+        "painters": [{ "id": 375106, "name": "류화" }],
+        "originAuthors": [{ "id": 360890, "name": "유세라" }]
+      },
+      "displayAuthor": "도림 / 류화 / 유세라",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 802039,
+      "titleName": "루루라라 우리네 인생",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802039/thumbnail/thumbnail_IMAG21_a7a82a34-586c-4acf-b6f2-ab052be786f1.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 359126, "name": "현이씨" }],
+        "painters": [{ "id": 359126, "name": "현이씨" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "현이씨",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 818020,
+      "titleName": "사랑, 그거 어떻게 하는 건데",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818020/thumbnail/thumbnail_IMAG21_26b574d9-d5b9-4001-8a50-ec348a35e61a.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 337216, "name": "이범" }],
+        "painters": [{ "id": 337216, "name": "이범" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "이범",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 798277,
+      "titleName": "아슈타르테",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/798277/thumbnail/thumbnail_IMAG21_37db1d64-64fd-4be0-ac7f-46408344761b.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 372612, "name": "미세초" }],
+        "painters": [{ "id": 357325, "name": "SOON" }],
+        "originAuthors": [{ "id": 357326, "name": "안다온" }]
+      },
+      "displayAuthor": "미세초 / SOON / 안다온",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 791205,
+      "titleName": "파운더",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/791205/thumbnail/thumbnail_IMAG21_4c20287b-55d8-4bb5-9db4-cbb1caf5617d.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 354470, "name": "임상윤" }],
+        "painters": [{ "id": 354471, "name": "만두인" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "임상윤 / 만두인",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 818668,
+      "titleName": "보스리턴",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818668/thumbnail/thumbnail_IMAG21_d8573ab3-e412-4f5f-b36c-e9116e0af93c.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 290955,
+            "name": "양세준",
+            "blogUrl": "https://blog.naver.com/popnoise"
+          }
+        ],
+        "painters": [
+          {
+            "id": 290955,
+            "name": "양세준",
+            "blogUrl": "https://blog.naver.com/popnoise"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "양세준",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 780414,
+      "titleName": "오빠집이 비어서",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/780414/thumbnail/thumbnail_IMAG21_fc2621b0-84c3-404d-a18d-5925dba6ab77.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 349703, "name": "이서희" }],
+        "painters": [{ "id": 349703, "name": "이서희" }],
+        "originAuthors": [{ "id": 349702, "name": "태소영" }]
+      },
+      "displayAuthor": "이서희 / 태소영",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 800034,
+      "titleName": "헬크래프트",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800034/thumbnail/thumbnail_IMAG21_df4c9ca5-a954-4c14-b03b-8716f5eea843.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 319300, "name": "나락" }],
+        "painters": [{ "id": 358227, "name": "영기" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "나락 / 영기",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 814362,
+      "titleName": "시한부의 아이까지 뺏으려 합니다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814362/thumbnail/thumbnail_IMAG21_16247d91-5c88-43aa-80e3-f28b2daf868d.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 369925, "name": "랍스타" }],
+        "painters": [{ "id": 369925, "name": "랍스타" }],
+        "originAuthors": [{ "id": 369926, "name": "이루이" }]
+      },
+      "displayAuthor": "랍스타 / 이루이",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 687915,
+      "titleName": "꿈의 기업",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/687915/thumbnail/thumbnail_IMAG21_d46ad6b8-e9a8-4bc8-b501-e62adfee0eb6.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 227102,
+            "name": "문지현",
+            "blogUrl": "https://blog.naver.com/beatmoon79"
+          }
+        ],
+        "painters": [
+          {
+            "id": 227102,
+            "name": "문지현",
+            "blogUrl": "https://blog.naver.com/beatmoon79"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "문지현",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 819983,
+      "titleName": "내가 왜 킬러?!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/819983/thumbnail/thumbnail_IMAG21_e7252603-401a-4010-b779-19308ae4968e.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 374158, "name": "규잉" }],
+        "painters": [{ "id": 374158, "name": "규잉" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "규잉",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 818528,
+      "titleName": "공녀님의 꽃밭에는 그들이 산다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818528/thumbnail/thumbnail_IMAG21_0f920e3a-0a21-4a77-a606-ab8eff26004b.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 372939, "name": "검오리" }],
+        "painters": [{ "id": 372940, "name": "영락" }],
+        "originAuthors": [{ "id": 372941, "name": "고겨울" }]
+      },
+      "displayAuthor": "검오리 / 영락 / 고겨울",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 814566,
+      "titleName": "제국 제일의 상속녀가 되었습니다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814566/thumbnail/thumbnail_IMAG21_4f97cbfb-8e3e-445d-848c-ae270c22f5b0.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 369698, "name": "한강" }],
+        "painters": [{ "id": 369698, "name": "한강" }],
+        "originAuthors": [{ "id": 370110, "name": "요정용" }]
+      },
+      "displayAuthor": "한강 / 요정용",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 814116,
+      "titleName": "악녀교실",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814116/thumbnail/thumbnail_IMAG21_6a63ce48-bfe3-4a05-862f-4e6f1b3771c2.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 369687, "name": "즛호" }],
+        "painters": [{ "id": 369687, "name": "즛호" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "즛호",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 808776,
+      "titleName": "엘프",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/808776/thumbnail/thumbnail_IMAG21_fb25d2f3-790c-48db-beaf-c2504f4ed4c0.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 328327, "name": "홍작가" }],
+        "painters": [{ "id": 328327, "name": "홍작가" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "홍작가",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 791629,
+      "titleName": "입술이 예쁜 남자",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/791629/thumbnail/thumbnail_IMAG21_4122541015824753209.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 354184, "name": "고도" }],
+        "painters": [{ "id": 354184, "name": "고도" }],
+        "originAuthors": [{ "id": 337392, "name": "플라비" }]
+      },
+      "displayAuthor": "고도 / 플라비",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 805702,
+      "titleName": "토마토가 돼라!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/805702/thumbnail/thumbnail_IMAG21_d862f8dd-6f21-4abf-a51c-7e00128aaae4.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 360908, "name": "뮤리" }],
+        "painters": [{ "id": 360908, "name": "뮤리" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "뮤리",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 808711,
+      "titleName": "쥴리에타의 드레스 업",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/808711/thumbnail/thumbnail_IMAG21_d0fb6e8e-bae0-4561-b537-bd84a6b3cb09.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 365590, "name": "말차" }],
+        "painters": [{ "id": 365591, "name": "유자차" }],
+        "originAuthors": [{ "id": 365592, "name": "채하빈" }]
+      },
+      "displayAuthor": "말차 / 유자차 / 채하빈",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 818810,
+      "titleName": "반려짐승",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818810/thumbnail/thumbnail_IMAG21_4dbca925-6ea4-4561-b1b2-eb0df0089eeb.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 346302, "name": "래형" }],
+        "painters": [{ "id": 346302, "name": "래형" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "래형",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 784107,
+      "titleName": "달로 만든 아이",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/784107/thumbnail/thumbnail_IMAG21_98a19f14-de9a-491d-bc11-a3103e7e671d.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 351014, "name": "온윤" }],
+        "painters": [{ "id": 351014, "name": "온윤" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "온윤",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 800333,
+      "titleName": "사이다걸",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800333/thumbnail/thumbnail_IMAG21_407ea651-d14f-47af-9e06-8813e7160421.jpeg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 358331, "name": "김드루" }],
+        "painters": [{ "id": 358332, "name": "김그루" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "김드루 / 김그루",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 734574,
+      "titleName": "영앤리치가 아니야!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/734574/thumbnail/thumbnail_IMAG21_8688bbf6-1067-465b-9070-4fef7c1ab1cd.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 225651,
+            "name": "최삡뺩",
+            "blogUrl": "https://blog.naver.com/thimpy"
+          }
+        ],
+        "painters": [
+          {
+            "id": 225651,
+            "name": "최삡뺩",
+            "blogUrl": "https://blog.naver.com/thimpy"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "최삡뺩",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 821807,
+      "titleName": "선빵필승!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821807/thumbnail/thumbnail_IMAG21_f89791fc-9d16-4b0b-8e39-273063f2e0a0.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 317020,
+            "name": "해미",
+            "blogUrl": "https://blog.naver.com/glaine69"
+          }
+        ],
+        "painters": [
+          {
+            "id": 317020,
+            "name": "해미",
+            "blogUrl": "https://blog.naver.com/glaine69"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "해미",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 819202,
+      "titleName": "두 번째 삶은 힐링라이프?",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/819202/thumbnail/thumbnail_IMAG21_a158cef6-6248-42ee-bce7-8f4f57fc0d5f.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 373511, "name": "당토" }],
+        "painters": [{ "id": 373511, "name": "당토" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "당토",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 820800,
+      "titleName": "다육이는 잘 자란다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/820800/thumbnail/thumbnail_IMAG21_2644dd23-6d89-4948-bf8b-809f08c05307.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 243358,
+            "name": "도국",
+            "blogUrl": "https://blog.naver.com/iqzeo619"
+          }
+        ],
+        "painters": [
+          {
+            "id": 243358,
+            "name": "도국",
+            "blogUrl": "https://blog.naver.com/iqzeo619"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "도국",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 745654,
+      "titleName": "백호랑",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/745654/thumbnail/thumbnail_IMAG21_3978989878055821874.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 333368, "name": "박혬" }],
+        "painters": [{ "id": 333368, "name": "박혬" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "박혬",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 774870,
+      "titleName": "찌질하지만 로맨스는 하고 싶어",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/774870/thumbnail/thumbnail_IMAG21_7edc26e1-5aa3-4574-908c-d3df9b331faf.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 314003, "name": "상수" }],
+        "painters": [{ "id": 314003, "name": "상수" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "상수",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 679568,
+      "titleName": "마이너스의 손",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/679568/thumbnail/thumbnail_IMAG21_0e7abd73-060d-42eb-afed-65cafc457104.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 303447,
+            "name": "김뎐",
+            "blogUrl": "https://blog.naver.com/jamacc94"
+          }
+        ],
+        "painters": [
+          {
+            "id": 303447,
+            "name": "김뎐",
+            "blogUrl": "https://blog.naver.com/jamacc94"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "김뎐",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 818403,
+      "titleName": "학식의 꿈",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818403/thumbnail/thumbnail_IMAG21_86a7a866-aa7c-4c95-9af7-9969077c5b28.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 352266, "name": "으앵" }],
+        "painters": [{ "id": 352266, "name": "으앵" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "으앵",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 802033,
+      "titleName": "집사, 주세요!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802033/thumbnail/thumbnail_IMAG21_ccce5530-0976-4a0d-b76c-d54c5620cdd5.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 328134, "name": "꾀돌이" }],
+        "painters": [{ "id": 328134, "name": "꾀돌이" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "꾀돌이",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 772734,
+      "titleName": "최후의 금빛아이",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/772734/thumbnail/thumbnail_IMAG21_fdecfea5-8ca1-4a32-9c55-34a30f24266d.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 346314, "name": "알깨" }],
+        "painters": [{ "id": 346315, "name": "새몽" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "알깨 / 새몽",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 807397,
+      "titleName": "고백어택",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807397/thumbnail/thumbnail_IMAG21_d0a7cee2-4ded-4506-aedf-71c25675247c.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 364094, "name": "늠개" }],
+        "painters": [{ "id": 364094, "name": "늠개" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "늠개",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 808760,
+      "titleName": "어쌔신 크리드 - 잊혀진 사원",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/808760/thumbnail/thumbnail_IMAG21_1d65caac-a10d-44c5-b49d-ef1ac0b95a17.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          { "id": 365648, "name": "ARC" },
+          { "id": 365649, "name": "Ubisoft" },
+          { "id": 376066, "name": "NOHT" }
+        ],
+        "painters": [{ "id": 365647, "name": "Tabii" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "ARC, Ubisoft, NOHT / Tabii",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 812403,
+      "titleName": "컨트롤X",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/812403/thumbnail/thumbnail_IMAG21_33b2a737-0fe1-41d8-b083-40220fb5c5cb.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 368149, "name": "사이렌" }],
+        "painters": [{ "id": 368150, "name": "서클" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "사이렌 / 서클",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 807159,
+      "titleName": "포스트 팬데믹",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807159/thumbnail/thumbnail_IMAG21_e7c75b1e-7bc4-484b-874d-1245f114479e.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 363671, "name": "좡좡" }],
+        "painters": [{ "id": 363672, "name": "영명" }],
+        "originAuthors": [{ "id": 329967, "name": "한산이가" }]
+      },
+      "displayAuthor": "좡좡 / 영명 / 한산이가",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 817019,
+      "titleName": "날 먹는 건 금지양!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817019/thumbnail/thumbnail_IMAG21_6845792d-40db-4cd9-ab7a-9b86995f3383.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 346353, "name": "조9" }],
+        "painters": [{ "id": 346353, "name": "조9" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "조9",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 776256,
+      "titleName": "역주행!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/776256/thumbnail/thumbnail_IMAG21_d520a876-7403-4349-a56a-f1203882bed2.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 322689, "name": "김현아" }],
+        "painters": [{ "id": 322689, "name": "김현아" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "김현아",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 772243,
+      "titleName": "모스크바의 여명",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/772243/thumbnail/thumbnail_IMAG21_3918807214864216674.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 346269, "name": "이샨오" }],
+        "painters": [{ "id": 346269, "name": "이샨오" }],
+        "originAuthors": [{ "id": 346268, "name": "황장미" }]
+      },
+      "displayAuthor": "이샨오 / 황장미",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 819698,
+      "titleName": "나의 보이소프렌드",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/819698/thumbnail/thumbnail_IMAG21_6a3e1b45-441c-4245-890b-3c203e7c5607.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 373920, "name": "망공이" }],
+        "painters": [{ "id": 373920, "name": "망공이" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "망공이",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 802854,
+      "titleName": "주작연애",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802854/thumbnail/thumbnail_IMAG21_07cc3736-c73f-4ec3-8a3b-216d4b0f06fb.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 359523, "name": "우까" }],
+        "painters": [{ "id": 359523, "name": "우까" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "우까",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 819716,
+      "titleName": "처음을 줄게!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/819716/thumbnail/thumbnail_IMAG21_823db330-b393-460c-ba64-91218078192b.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 333188, "name": "을승" }],
+        "painters": [{ "id": 333188, "name": "을승" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "을승",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 817757,
+      "titleName": "티엔다비스 - 완벽한 구원을 위하여",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817757/thumbnail/thumbnail_IMAG21_ebdeda6d-ece8-4f79-97c6-2df8e8fd08fb.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 372847, "name": "삼공" }],
+        "painters": [{ "id": 372848, "name": "느링" }],
+        "originAuthors": [{ "id": 350560, "name": "김영지" }]
+      },
+      "displayAuthor": "삼공 / 느링 / 김영지",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 817987,
+      "titleName": "오늘의 일기예보",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817987/thumbnail/thumbnail_IMAG21_22f8f0f6-ffb1-4b24-b47e-6a1d33074ead.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 372445, "name": "지휘" }],
+        "painters": [{ "id": 372445, "name": "지휘" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "지휘",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 793067,
+      "titleName": "버그이터",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/793067/thumbnail/thumbnail_IMAG21_fe237592-aa28-40d0-9953-f4056beedfcd.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 355600, "name": "이륙" }],
+        "painters": [{ "id": 355600, "name": "이륙" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "이륙",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 811129,
+      "titleName": "러브 똘츄얼리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/811129/thumbnail/thumbnail_IMAG21_02284133-0eb0-407a-9c4e-7381dbd7a8a4.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 367210, "name": "김진경" }],
+        "painters": [{ "id": 367210, "name": "김진경" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "김진경",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 807600,
+      "titleName": "악취해결사",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807600/thumbnail/thumbnail_IMAG21_1f73e8d5-19be-4978-8a3f-d3df5bc6961d.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 364291, "name": "샘샘" }],
+        "painters": [{ "id": 364291, "name": "샘샘" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "샘샘",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 764480,
+      "titleName": "트리거",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/764480/thumbnail/thumbnail_IMAG21_bd0f0797-5db7-4e99-8176-4d7784447742.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [
+          {
+            "id": 342307,
+            "name": "고경빈",
+            "blogUrl": "https://blog.naver.com/bean8808"
+          }
+        ],
+        "painters": [
+          {
+            "id": 342307,
+            "name": "고경빈",
+            "blogUrl": "https://blog.naver.com/bean8808"
+          }
+        ],
+        "originAuthors": []
+      },
+      "displayAuthor": "고경빈",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    },
+    {
+      "titleId": 816528,
+      "titleName": "어느날 짝남에게 공작님이 빙의했다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/816528/thumbnail/thumbnail_IMAG21_12b8af45-dcdb-4a37-8ccf-b597e490e55c.jpg",
+      "thumbnailBadgeList": [],
+      "author": {
+        "writers": [{ "id": 370333, "name": "다담" }],
+        "painters": [{ "id": 370334, "name": "죽순" }],
+        "originAuthors": []
+      },
+      "displayAuthor": "다담 / 죽순",
+      "up": true,
+      "rest": false,
+      "openToday": false
+    }
+  ]
+}
