@@ -1,5 +1,4 @@
 {
-  "genreType": "PURE",
   "titleList": [
     {
       "titleId": 802293,
@@ -8,7 +7,8 @@
       "thumbnailBadgeList": ["ADULT"],
       "up": false,
       "rest": false,
-      "rank": 1
+      "rank": 1,
+      "genre":1001
     },
     {
       "titleId": 821589,
@@ -17,7 +17,8 @@
       "thumbnailBadgeList": ["ADULT"],
       "up": false,
       "rest": false,
-      "rank": 2
+      "rank": 2,
+      "genre":1001
     },
     {
       "titleId": 735661,
@@ -26,7 +27,8 @@
       "thumbnailBadgeList": [],
       "up": false,
       "rest": false,
-      "rank": 3
+      "rank": 3,
+      "genre":1001
     },
     {
       "titleId": 817859,
@@ -35,7 +37,8 @@
       "thumbnailBadgeList": ["ADULT"],
       "up": true,
       "rest": false,
-      "rank": 4
+      "rank": 4,
+      "genre":1001
     },
     {
       "titleId": 774862,
@@ -44,7 +47,8 @@
       "thumbnailBadgeList": [],
       "up": false,
       "rest": false,
-      "rank": 5
+      "rank": 5,
+      "genre":1001
     },
     {
       "titleId": 785251,
@@ -53,7 +57,8 @@
       "thumbnailBadgeList": [],
       "up": false,
       "rest": false,
-      "rank": 6
+      "rank": 6,
+      "genre":1001
     },
     {
       "titleId": 796867,
@@ -62,7 +67,8 @@
       "thumbnailBadgeList": ["ADULT"],
       "up": true,
       "rest": false,
-      "rank": 7
+      "rank": 7,
+      "genre":1001
     },
     {
       "titleId": 798917,
@@ -71,7 +77,8 @@
       "thumbnailBadgeList": [],
       "up": false,
       "rest": false,
-      "rank": 8
+      "rank": 8,
+      "genre":1001
     },
     {
       "titleId": 724815,
@@ -80,7 +87,8 @@
       "thumbnailBadgeList": [],
       "up": false,
       "rest": false,
-      "rank": 9
+      "rank": 9,
+      "genre":1001
     },
     {
       "titleId": 738487,
@@ -89,7 +97,908 @@
       "thumbnailBadgeList": [],
       "up": false,
       "rest": false,
-      "rank": 10
+      "rank": 10,
+      "genre":1001
+    },
+    {
+      "titleId": 747269,
+      "titleName": "전지적 독자 시점",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/747269/thumbnail/thumbnail_IMAG21_aabd9952-ff45-47a2-a543-33f19a5c6708.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 1,
+      "genre":1002
+    },
+    {
+      "titleId": 773797,
+      "titleName": "나 혼자 만렙 뉴비",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/773797/thumbnail/thumbnail_IMAG21_4dda13fe-417f-45b9-9696-880f2487d41d.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 2,
+      "genre":1002
+    },
+    {
+      "titleId": 777767,
+      "titleName": "역대급 영지 설계사",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/777767/thumbnail/thumbnail_IMAG21_cc85f891-272b-450a-b642-cffe1568ab71.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 3,
+      "genre":1002
+    },
+    {
+      "titleId": 784248,
+      "titleName": "내가 키운 S급들",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/784248/thumbnail/thumbnail_IMAG21_20a8aca7-23d3-4bc0-9916-a31ebc884ca8.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 4,
+      "genre":1002
+    },
+    {
+      "titleId": 183559,
+      "titleName": "신의 탑",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/183559/thumbnail/thumbnail_IMAG21_5f3fec31-5c95-4afe-a73f-3046288edb47.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 5,
+      "genre":1002
+    },
+    {
+      "titleId": 792651,
+      "titleName": "99강화나무몽둥이",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/792651/thumbnail/thumbnail_IMAG21_218f18ef-7f68-4d6a-972c-686a3e9f6138.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 6,
+      "genre":1002
+    },
+    {
+      "titleId": 775141,
+      "titleName": "66666년 만에 환생한 흑마법사",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/775141/thumbnail/thumbnail_IMAG21_30fa3d4e-7e2f-468a-9128-f22764142abc.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 7,
+      "genre":1002
+    },
+    {
+      "titleId": 795297,
+      "titleName": "신화급 귀속 아이템을 손에 넣었다",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/795297/thumbnail/thumbnail_IMAG21_ceeeead6-8a9c-48ec-a793-f3cc092a0b10.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 8,
+      "genre":1002
+    },
+    {
+      "titleId": 789979,
+      "titleName": "멸망 이후의 세계",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/789979/thumbnail/thumbnail_IMAG21_792cd36e-d722-4970-933b-3da7c37ee812.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 9,
+      "genre":1002
+    },
+    {
+      "titleId": 797443,
+      "titleName": "운명을 보는 회사원",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/797443/thumbnail/thumbnail_IMAG21_1e86ec68-b1b5-474f-9e8a-28a617cc5b13.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 10,
+      "genre":1002
+    },
+    {
+      "titleId": 783053,
+      "titleName": "김부장",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783053/thumbnail/thumbnail_IMAG21_d7732f14-26da-4e35-8762-660cc87b53f1.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 1,
+      "genre":1003
+    },
+    {
+      "titleId": 758037,
+      "titleName": "참교육",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758037/thumbnail/thumbnail_IMAG21_15cb2611-34c0-4f02-a689-41d0b1016579.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 2,
+      "genre":1003
+    },
+    {
+      "titleId": 808198,
+      "titleName": "촉법소년",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/808198/thumbnail/thumbnail_IMAG21_2aabb538-5b1a-4d74-81ed-b41bb8a155ff.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 3,
+      "genre":1003
+    },
+    {
+      "titleId": 758150,
+      "titleName": "입학용병",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/758150/thumbnail/thumbnail_IMAG21_4135492154714961716.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 4,
+      "genre":1003
+    },
+    {
+      "titleId": 804862,
+      "titleName": "백XX",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/804862/thumbnail/thumbnail_IMAG21_f1b2f920-5c10-4155-a547-0c25a7132d8f.jpeg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 5,
+      "genre":1003
+    },
+    {
+      "titleId": 670143,
+      "titleName": "헬퍼 2 : 킬베로스",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/670143/thumbnail/thumbnail_IMAG21_12d5d293-d54d-4022-8e00-c97c5779c701.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": false,
+      "rest": false,
+      "rank": 6,
+      "genre":1003
+    },
+    {
+      "titleId": 730694,
+      "titleName": "초인의 시대",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/730694/thumbnail/thumbnail_IMAG21_e6fc219d-e5ea-4d93-b7d6-45b595c2a3cb.jpeg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 7,
+      "genre":1003
+    },
+    {
+      "titleId": 730656,
+      "titleName": "사신소년",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/730656/thumbnail/thumbnail_IMAG21_fc6d8dbf-eed2-43d0-af45-2edb3cc4244e.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 8,
+      "genre":1003
+    },
+    {
+      "titleId": 816798,
+      "titleName": "킬러 배드로",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/816798/thumbnail/thumbnail_IMAG21_c141fe1d-eeb4-4e88-a0d5-df45d23804a3.jpeg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 9,
+      "genre":1003
+    },
+    {
+      "titleId": 717481,
+      "titleName": "일렉시드",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/717481/thumbnail/thumbnail_IMAG21_3545800975505057126.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 10,
+      "genre":1003
+    },
+    {
+      "titleId": 822095,
+      "titleName": "진돌히디만화",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822095/thumbnail/thumbnail_IMAG21_b43a443d-55bd-4936-a105-200ed7efaef5.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": false,
+      "rest": false,
+      "rank": 1,
+      "genre":1004
+    },
+    {
+      "titleId": 822556,
+      "titleName": "유부 감자",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822556/thumbnail/thumbnail_IMAG21_46b37b9f-0a73-43e0-982a-1cf5666397c7.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": true,
+      "rest": false,
+      "rank": 2,
+      "genre":1004
+    },
+    {
+      "titleId": 790713,
+      "titleName": "대학원 탈출일지",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/790713/thumbnail/thumbnail_IMAG21_3919364435331003700.jpg",
+      "thumbnailBadgeList": ["FINISH"],
+      "up": false,
+      "rest": false,
+      "rank": 3,
+      "genre":1004
+    },
+    {
+      "titleId": 817945,
+      "titleName": "어린이집 다니는 구나",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817945/thumbnail/thumbnail_IMAG21_120ad315-8518-4430-bb30-739654b49635.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 4,
+      "genre":1004
+    },
+    {
+      "titleId": 820104,
+      "titleName": "흔한햄",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/820104/thumbnail/thumbnail_IMAG21_339fb346-6eae-42e3-afbb-b9e8ec0dc513.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 5,
+      "genre":1004
+    },
+    {
+      "titleId": 823021,
+      "titleName": "피부과 만렙남",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/823021/thumbnail/thumbnail_IMAG21_dbdac991-db82-493f-b2cf-fbb3045dbc27.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": true,
+      "rest": false,
+      "rank": 6,
+      "genre":1004
+    },
+    {
+      "titleId": 823195,
+      "titleName": "쌉초의 난",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/823195/thumbnail/thumbnail_IMAG21_10484673-5368-4f70-9ef0-9950f426b5a8.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": false,
+      "rest": false,
+      "rank": 7,
+      "genre":1004
+    },
+    {
+      "titleId": 814048,
+      "titleName": "마님이네 미국 시골집 이야기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814048/thumbnail/thumbnail_IMAG21_234ffc80-64de-4765-b059-6888ae0a9fae.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 8,
+      "genre":1004
+    },
+    {
+      "titleId": 799267,
+      "titleName": "안녕, 나의 수집",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/799267/thumbnail/thumbnail_IMAG21_f522ff4f-4f7c-40bf-b9f2-f58d049d4a82.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 9,
+      "genre":1004
+    },
+    {
+      "titleId": 616239,
+      "titleName": "윌유메리미",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/616239/thumbnail/thumbnail_IMAG21_b412e69f-b6dc-40eb-b022-0f2c0991389b.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 10,
+      "genre":1004
+    },
+    {
+      "titleId": 821192,
+      "titleName": "좋아? 죽어!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821192/thumbnail/thumbnail_IMAG21_156483ac-3740-4cbf-8150-0f24595bae52.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": true,
+      "rest": false,
+      "rank": 1,
+      "genre":1005
+    },
+    {
+      "titleId": 820371,
+      "titleName": "비질란테 2부",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/820371/thumbnail/thumbnail_IMAG21_35ae72ff-bf1a-4a4b-8421-fb56ca3c58b7.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 2,
+      "genre":1005
+    },
+    {
+      "titleId": 821851,
+      "titleName": "기기괴괴2",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821851/thumbnail/thumbnail_IMAG21_d67261bc-0aea-495c-b92e-07dc2c1785cd.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": false,
+      "rest": false,
+      "rank": 3,
+      "genre":1005
+    },
+    {
+      "titleId": 813843,
+      "titleName": "맛집",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/813843/thumbnail/thumbnail_IMAG21_7bbc3b88-f67b-4eae-ad76-2531151984a7.jpg",
+      "thumbnailBadgeList": ["FINISH"],
+      "up": false,
+      "rest": false,
+      "rank": 4,
+      "genre":1005
+    },
+    {
+      "titleId": 742105,
+      "titleName": "미래의 골동품 가게",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/742105/thumbnail/thumbnail_IMAG21_a3860cc1-f927-4031-92fd-8d89b9801127.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 5,
+      "genre":1005
+    },
+    {
+      "titleId": 821953,
+      "titleName": "하자인간",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821953/thumbnail/thumbnail_IMAG21_7c04c0b8-12d8-4337-b263-56624a1ca56a.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": false,
+      "rest": false,
+      "rank": 6,
+      "genre":1005
+    },
+    {
+      "titleId": 818448,
+      "titleName": "욕망일기Deep",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818448/thumbnail/thumbnail_IMAG21_8f02d84a-1c44-412e-8a34-4c9ec09c68ac.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 7,
+      "genre":1005
+    },
+    {
+      "titleId": 822573,
+      "titleName": "귀촌리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822573/thumbnail/thumbnail_IMAG21_d5b20239-59d8-4274-85ef-3d096420738c.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": false,
+      "rest": false,
+      "rank": 8,
+      "genre":1005
+    },
+    {
+      "titleId": 802389,
+      "titleName": "궤짝",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802389/thumbnail/thumbnail_IMAG21_2c396e53-5710-47b4-b9ae-0b9582454479.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 9,
+      "genre":1005
+    },
+    {
+      "titleId": 822105,
+      "titleName": "룸비니",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822105/thumbnail/thumbnail_IMAG21_c2914f3f-6947-4d49-b5c0-4a27a7820b83.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": false,
+      "rest": false,
+      "rank": 10,
+      "genre":1005
+    },
+    {
+      "titleId": 821793,
+      "titleName": "마음의소리(였던 것)",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821793/thumbnail/thumbnail_IMAG21_c5c798a7-dadf-487b-9bea-485928755332.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 1,
+      "genre":1006
+    },
+    {
+      "titleId": 814543,
+      "titleName": "마음의소리2",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814543/thumbnail/thumbnail_IMAG21_df84a681-b7ef-4dda-8cef-25b219d35e3e.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 2,
+      "genre":1006
+    },
+    {
+      "titleId": 811721,
+      "titleName": "무직백수 계백순",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/811721/thumbnail/thumbnail_IMAG21_9a2a959a-666b-4156-8e4f-db64dfe319c6.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 3,
+      "genre":1006
+    },
+    {
+      "titleId": 478261,
+      "titleName": "선천적 얼간이들",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/478261/thumbnail/thumbnail_IMAG21_7fbd8610-0a97-40e3-9c63-101ea07fc4b4.jpg",
+      "thumbnailBadgeList": ["FINISH"],
+      "up": false,
+      "rest": false,
+      "rank": 4,
+      "genre":1006
+    },
+    {
+      "titleId": 796152,
+      "titleName": "마루는 강쥐",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/796152/thumbnail/thumbnail_IMAG21_26b9c1d8-ca2d-4fc7-87ea-a3334634236a.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 5,
+      "genre":1006
+    },
+    {
+      "titleId": 814356,
+      "titleName": "성검전설",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814356/thumbnail/thumbnail_IMAG21_8ab854ac-f59a-4065-9287-cdfc336eb438.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 6,
+      "genre":1006
+    },
+    {
+      "titleId": 809054,
+      "titleName": "네이처맨",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/809054/thumbnail/thumbnail_IMAG21_99e2bc60-6038-44e7-8689-44cf20fbc6f5.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 7,
+      "genre":1006
+    },
+    {
+      "titleId": 801589,
+      "titleName": "놓지마 정신줄 시즌3",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/801589/thumbnail/thumbnail_IMAG21_1b439234-e17d-4fb8-9eef-5d2d4173234c.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 8,
+      "genre":1006
+    },
+    {
+      "titleId": 734008,
+      "titleName": "닭강정",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/734008/thumbnail/thumbnail_IMAG21_3630242376757686372.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "up": false,
+      "rest": false,
+      "rank": 9,
+      "genre":1006
+    },
+    {
+      "titleId": 671421,
+      "titleName": "언덕 위의 제임스",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/671421/thumbnail/thumbnail_IMAG21_7643171d-08fb-40a8-9da1-813a3b7e784f.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 10,
+      "genre":1006
+    },
+    {
+      "titleId": 769209,
+      "titleName": "화산귀환",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/769209/thumbnail/thumbnail_IMAG21_3511dcdd-6e33-4171-8839-598d6d266215.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 1,
+      "genre":1007
+    },
+    {
+      "titleId": 747271,
+      "titleName": "나노마신",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/747271/thumbnail/thumbnail_IMAG21_75c6a3cc-c4d1-4b51-a945-029aff772a63.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 2,
+      "genre":1007
+    },
+    {
+      "titleId": 776601,
+      "titleName": "광마회귀",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/776601/thumbnail/thumbnail_IMAG21_7365135131254864183.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 3,
+      "genre":1007
+    },
+    {
+      "titleId": 728750,
+      "titleName": "장씨세가 호위무사",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/728750/thumbnail/thumbnail_IMAG21_47c21251-b213-4882-bacc-15adce1acfc8.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 4,
+      "genre":1007
+    },
+    {
+      "titleId": 807777,
+      "titleName": "마도전생기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807777/thumbnail/thumbnail_IMAG21_e47489ea-bf97-4726-a8e7-6403092a303a.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 5,
+      "genre":1007
+    },
+    {
+      "titleId": 776255,
+      "titleName": "천마육성",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/776255/thumbnail/thumbnail_IMAG21_02fb1475-2e82-4bcd-ae93-c22d6b7158ae.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 6,
+      "genre":1007
+    },
+    {
+      "titleId": 821597,
+      "titleName": "괴력 난신",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821597/thumbnail/thumbnail_IMAG21_d39e65d8-6ffd-4024-be77-dbeb87db820c.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": true,
+      "rest": false,
+      "rank": 7,
+      "genre":1007
+    },
+    {
+      "titleId": 817246,
+      "titleName": "할배무사와 지존 손녀",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817246/thumbnail/thumbnail_IMAG21_6d85b575-a4f2-475e-8bfb-768175bc1857.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 8,
+      "genre":1007
+    },
+    {
+      "titleId": 805193,
+      "titleName": "천화서고 대공자",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/805193/thumbnail/thumbnail_IMAG21_47d9dfe3-8e58-43ba-b9c1-ad18673068cb.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 9,
+      "genre":1007
+    },
+    {
+      "titleId": 796075,
+      "titleName": "절대검감",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/796075/thumbnail/thumbnail_IMAG21_31f75c4c-81c9-454a-8d92-9e23b577e1a5.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 10,
+      "genre":1007
+    },
+    {
+      "titleId": 818791,
+      "titleName": "개꿈",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818791/thumbnail/thumbnail_IMAG21_a613db8b-8319-4bfe-8971-1df89f4df979.jpg",
+      "thumbnailBadgeList": ["ADULT"],
+      "up": false,
+      "rest": false,
+      "rank": 1,
+      "genre":1008
+    },
+    {
+      "titleId": 648419,
+      "titleName": "뷰티풀 군바리",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/648419/thumbnail/thumbnail_IMAG21_d9398229-cbfd-47dc-9208-0a6fb936f3a7.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 2,
+      "genre":1008
+    },
+    {
+      "titleId": 641253,
+      "titleName": "외모지상주의",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/641253/thumbnail/thumbnail_IMAG21_01672165-03c8-44b1-ba0e-ef82c9cfcd10.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 3,
+      "genre":1008
+    },
+    {
+      "titleId": 733074,
+      "titleName": "백수세끼",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/733074/thumbnail/thumbnail_IMAG21_80df3e76-47af-4007-b57c-e8f2830835e5.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 4,
+      "genre":1008
+    },
+    {
+      "titleId": 819929,
+      "titleName": "서울 자가에 대기업 다니는 김 부장 이야기",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/819929/thumbnail/thumbnail_IMAG21_f1ca00e5-9b30-44d3-a1ee-7a04d539002a.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 5,
+      "genre":1008
+    },
+    {
+      "titleId": 800770,
+      "titleName": "재벌집 막내아들",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800770/thumbnail/thumbnail_IMAG21_d2e1e7ee-fc83-4030-a1e7-200378bc088f.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 6,
+      "genre":1008
+    },
+    {
+      "titleId": 783052,
+      "titleName": "퀘스트지상주의",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783052/thumbnail/thumbnail_IMAG21_800f4c56-26ac-419e-9ed0-baf322311dea.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 7,
+      "genre":1008
+    },
+    {
+      "titleId": 737628,
+      "titleName": "별이삼샵",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/737628/thumbnail/thumbnail_IMAG21_9e108875-36b5-4872-8ace-53a6e492376b.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 8,
+      "genre":1008
+    },
+    {
+      "titleId": 654774,
+      "titleName": "소녀의 세계",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/654774/thumbnail/thumbnail_IMAG21_4048794550434817075.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 9,
+      "genre":1008
+    },
+    {
+      "titleId": 751168,
+      "titleName": "상남자",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/751168/thumbnail/thumbnail_IMAG21_529c6125-cf14-435f-94ed-db1a2d499d84.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 10,
+      "genre":1008
+    },
+    {
+      "titleId": 821812,
+      "titleName": "이발소 밑 게임가게",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/821812/thumbnail/thumbnail_IMAG21_4e039fad-5af3-4ef5-96e5-05a6b261a9df.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 1,
+      "genre":1009
+    },
+    {
+      "titleId": 752532,
+      "titleName": "연우의 순정",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/752532/thumbnail/thumbnail_IMAG21_e0dbfa33-e13c-4adc-bf63-a5b26b4a2a3e.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 2,
+      "genre":1009
+    },
+    {
+      "titleId": 800506,
+      "titleName": "웅크",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800506/thumbnail/thumbnail_IMAG21_21640049-34da-44e5-82d7-bbb7aca3a3f8.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 3,
+      "genre":1009
+    },
+    {
+      "titleId": 823001,
+      "titleName": "프로페서",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/823001/thumbnail/thumbnail_IMAG21_6d43223a-6c16-47bb-8a40-8f2f198c4079.jpg",
+      "thumbnailBadgeList": ["NEW"],
+      "up": false,
+      "rest": false,
+      "rank": 4,
+      "genre":1009
+    },
+    {
+      "titleId": 818360,
+      "titleName": "우리는 후라이족",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818360/thumbnail/thumbnail_IMAG21_f3247f6d-17dc-4c05-9f5d-7ff50b8a4b4c.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 5,
+      "genre":1009
+    },
+    {
+      "titleId": 651664,
+      "titleName": "밥 먹고 갈래요?",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/651664/thumbnail/thumbnail_IMAG21_3558468650043455030.jpg",
+      "thumbnailBadgeList": ["FINISH"],
+      "up": false,
+      "rest": false,
+      "rank": 6,
+      "genre":1009
+    },
+    {
+      "titleId": 822827,
+      "titleName": "음악천재를 위하여",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/822827/thumbnail/thumbnail_IMAG21_dbe569ff-6ba9-4e6b-b232-2d48b7ee00ff.jpg",
+      "thumbnailBadgeList": ["NEW", "DAILY_PASS"],
+      "up": false,
+      "rest": false,
+      "rank": 7,
+      "genre":1009
+    },
+    {
+      "titleId": 816575,
+      "titleName": "정신병동에도 아침이 와요",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/816575/thumbnail/thumbnail_IMAG21_f2582a41-f759-48d7-b836-924ded628340.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "up": false,
+      "rest": false,
+      "rank": 8,
+      "genre":1009
+    },
+    {
+      "titleId": 818854,
+      "titleName": "영감",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818854/thumbnail/thumbnail_IMAG21_faa7a885-31d4-4bbe-9a15-0207cff39bde.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "up": false,
+      "rest": false,
+      "rank": 9,
+      "genre":1009
+    },
+    {
+      "titleId": 823069,
+      "titleName": "중간계 사우나",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/823069/thumbnail/thumbnail_IMAG21_b7a89ed4-d2a5-40da-a3cb-af53ea74ef1a.jpg",
+      "thumbnailBadgeList": ["DAILY_PASS"],
+      "up": false,
+      "rest": false,
+      "rank": 10,
+      "genre":1009
+    },
+    {
+      "titleId": 602910,
+      "titleName": "윈드브레이커",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/602910/thumbnail/thumbnail_IMAG21_e861f2cf-6157-4d33-8e02-7b4cbf0a8baf.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 1,
+      "genre":1010
+    },
+    {
+      "titleId": 701535,
+      "titleName": "격기3반",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/701535/thumbnail/thumbnail_IMAG21_2abe5b1a-9104-417f-9995-0db15c6db7be.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 2,
+      "genre":1010
+    },
+    {
+      "titleId": 814587,
+      "titleName": "펜홀더",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/814587/thumbnail/thumbnail_IMAG21_cfba24ca-f240-461e-9aa0-a5fb40bc3b0d.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 3,
+      "genre":1010
+    },
+    {
+      "titleId": 778578,
+      "titleName": "위닝샷!",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/778578/thumbnail/thumbnail_IMAG21_9fbb5592-b48c-48f9-989c-ae2f1cf332e6.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 4,
+      "genre":1010
+    },
+    {
+      "titleId": 703844,
+      "titleName": "가비지타임",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/703844/thumbnail/thumbnail_IMAG21_5ddcb40e-1f6a-40f3-b2c4-6cd9a7eee843.jpg",
+      "thumbnailBadgeList": ["FINISH"],
+      "up": false,
+      "rest": false,
+      "rank": 5,
+      "genre":1010
+    },
+    {
+      "titleId": 732021,
+      "titleName": "탑코너",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/732021/thumbnail/thumbnail_IMAG21_dd3b28b4-33b9-4cea-98b9-26fd51f06172.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": false,
+      "rank": 6,
+      "genre":1010
+    },
+    {
+      "titleId": 807775,
+      "titleName": "천재 타자가 강속구를 숨김",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807775/thumbnail/thumbnail_IMAG21_91cb8ff9-5be3-40ba-8df9-661972577cd2.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": true,
+      "rank": 7,
+      "genre":1010
+    },
+    {
+      "titleId": 24530,
+      "titleName": "MLB카툰",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/24530/thumbnail/thumbnail_IMAG21_3545234923782812772.jpg",
+      "thumbnailBadgeList": ["FINISH"],
+      "up": false,
+      "rest": false,
+      "rank": 8,
+      "genre":1010
+    },
+    {
+      "titleId": 750826,
+      "titleName": "빌드업",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/750826/thumbnail/thumbnail_IMAG21_8bf7d36d-d865-4df0-b76f-f72f288bb2cd.jpg",
+      "thumbnailBadgeList": [],
+      "up": false,
+      "rest": true,
+      "rank": 9,
+      "genre":1010
+    },
+    {
+      "titleId": 807314,
+      "titleName": "원포인트",
+      "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/807314/thumbnail/thumbnail_IMAG21_176143e6-3d43-495d-b60e-4dae06bc10e2.jpg",
+      "thumbnailBadgeList": [],
+      "up": true,
+      "rest": false,
+      "rank": 10,
+      "genre":1010
     }
   ]
 }

@@ -1,53 +1,29 @@
-// 데일리슬라이드
-const slide1 = new Swiper('.day-slide',{   
-    slidesPerView: 5,
-    slidesPerGroup: 5,
-    navigation: {
-        nextEl: ".slide-next",
-        prevEl: ".slide-prev",
-      },
-})
-// 장르별슬라이드
-const slide2 = new Swiper('.hot-slide',{   
-    slidesPerView: 5,
-    slidesPerGroup: 5,
-    navigation: {
-        nextEl: ".hot-next",
-        prevEl: ".hot-prev",
-      },
-})
-// 업데이트슬라이드
-const slide3 = new Swiper('.update-slide',{   
-  slidesPerView: 5,
-  slidesPerGroup: 5,
-  navigation: {
-      nextEl: ".update-next",
-      prevEl: ".update-prev",
-    },
-})
-// 묶음슬라이드
-const slide4 = new Swiper('.discount-slide',{   
-  slidesPerView: 5,
-  slidesPerGroup: 5,
-  navigation: {
-      nextEl: ".discount-next",
-      prevEl: ".discount-prev",
-    },
-})
-
 // 데일리
 const upNew  = `<div class="ic"><span class="blind">신작</span><svg width="21" height="20" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><circle cx="10.082" cy="10" r="10" fill="#00DC64"></circle><path d="M9.306 12.482v1.065H2.812v-2.5h1.17v1.435h5.324ZM9.14 5.988v5.632H7.977V5.988H9.14Zm-5.21 0H5.1c0 .287-.017.569-.052.845-.03.275-.076.545-.14.81.252.398.571.777.958 1.135.388.357.787.65 1.197.88l-.695.87a6.37 6.37 0 0 1-1.003-.73 7.632 7.632 0 0 1-.88-.924c-.176.37-.39.71-.643 1.021a4.264 4.264 0 0 1-.827.8l-.871-.747c.563-.417 1-.962 1.311-1.637.317-.675.475-1.449.475-2.323ZM10.489 6.111h4.127v.995h-1.505a8.073 8.073 0 0 1-.061.396c-.018.129-.044.255-.08.378.235.358.537.701.907 1.03.37.322.754.592 1.153.81-.123.14-.247.278-.37.413-.117.129-.238.26-.36.396a6.334 6.334 0 0 1-1.77-1.505 5.184 5.184 0 0 1-.66.95 4.248 4.248 0 0 1-.827.73l-.228-.175a3.282 3.282 0 0 1-.22-.185l-.23-.176c-.07-.059-.14-.12-.21-.185.492-.3.894-.695 1.205-1.188.311-.493.51-1.056.599-1.69h-1.47v-.994Zm7.4 1.61v1.11h-.985v1.768h-1.17V5.988h1.17v1.734h.986Zm-.985 3.256v2.693h-1.17v-1.645h-5.166v-1.048h6.336Z" fill="#000"></path></svg></div>`
 const upEl =`<i class="ic-up"><svg width="17" height="13" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><rect x="0.5" y="0.5" width="16" height="12" rx="1.5" stroke="#FF4747"></rect><path d="M3.449 6.899c0 1.518.957 2.53 2.401 2.53 1.454 0 2.42-1.012 2.42-2.53V3.403H7.12V6.89c0 .837-.497 1.389-1.251 1.389-.764 0-1.27-.561-1.27-1.399V3.403h-1.15v3.496Zm6.174 2.4h1.15V7.314h.929c1.435 0 2.383-.773 2.383-1.96 0-1.177-.939-1.95-2.365-1.95H9.623V9.3Zm2.19-4.884c.634 0 1.057.377 1.057.938 0 .57-.423.948-1.058.948h-1.04V4.415h1.04Z" fill="#FF4747"></path></svg><span class="blind">UP</span></i>`
-fetch('./assets/data/dailyUser.json')
-.then(res=>res.json())
-.then(json=>{
-  data=json.titleList;
 
-  let html=``;
-  data.forEach(element => {
-    isNew = (element.thumbnailBadgeList.includes("NEW"))?upNew:'';
-    isUp = (element.up)?upEl:'';
-    html+=`<div class="swiper-slide">
+idx = 0;
+dailyList();
+function dailyList(){
+    fetch('./assets/data/dailyUser.json')
+    .then(res=>res.json())
+    .then(json=>{
+      ListArr=[ json.userList, json.updateList, json.viewList, json.starList ]
+      data=ListArr[idx];
+      const slide1 = new Swiper('.day-slide',{   
+            slidesPerView: 5,
+            slidesPerGroup: 5,
+            navigation: {
+                nextEl: ".slide-next",
+                prevEl: ".slide-prev",
+            },
+        })
+      let html=``;
+      data.forEach((element,i) => {
+          isNew = (element.thumbnailBadgeList.includes("NEW"))?upNew:'';
+          isUp = (element.up)?upEl:'';
+          html+=`
+          <div class="swiper-slide">
             <div class="img-area">
                 <a href="#">
                     <div class="thumb">
@@ -66,9 +42,20 @@ fetch('./assets/data/dailyUser.json')
                 <p><a href="">${element.displayAuthor}</a></p>
             </div>
         </div>`
-  });
-  $('#dailyUpdateList').html(html);
+      });
+      $('#dailyUpdateList').html(html);
+      slide1.update();
+    })
+}
+
+$('.sc-day .title-list a').click(function(e){
+    e.preventDefault();
+    $('.sc-day .title-list a').removeClass('active');
+    $(this).addClass('active');
+    idx=$(this).parent().index();
+    dailyList();
 })
+
 
 
 // 장르별
@@ -96,44 +83,105 @@ const rank9=`<span class="blind">9</span>
 <svg width="36" height="50" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M17.373 47.454c10.47 0 16.838-8.45 16.838-22.049 0-6.597-1.547-12.24-4.435-16.117-2.888-3.906-7.35-5.903-12.506-5.903-8.949 0-15.499 6.25-15.499 15.191 0 7.929 5.416 13.745 12.352 13.745 5.055 0 8.304-2.836 9.438-6.83h.207c.567 8.045-2.14 12.703-6.215 12.703-2.27 0-4.177-1.244-4.667-3.038H2.236c.902 7.118 7.22 12.298 15.137 12.298Zm.051-23.727c-2.862 0-5.106-2.402-5.106-5.527 0-3.154 2.27-5.584 5.106-5.584 2.811 0 5.029 2.43 5.029 5.584 0 3.125-2.218 5.527-5.029 5.527Z" fill="#000"></path><path fill-rule="evenodd" clip-rule="evenodd" d="M12.886 35.156c.49 1.794 2.398 3.038 4.667 3.038 3.417 0 5.873-3.277 6.242-9.08.07-1.094.064-2.278-.022-3.546l-.005-.076h-.207l-.005.019a9.876 9.876 0 0 1-1.38 2.944c-1.647 2.36-4.37 3.866-8.053 3.866-6.936 0-12.352-5.816-12.352-13.745 0-8.94 6.55-15.19 15.498-15.19 5.158 0 9.619 1.996 12.507 5.902 2.888 3.877 4.436 9.52 4.436 16.117 0 13.6-6.37 22.049-16.84 22.049-7.212 0-13.097-4.299-14.77-10.446-.163-.6-.286-1.218-.366-1.852h10.65ZM31.044 8.103c-3.27-4.42-8.244-6.57-13.775-6.57C7.64 1.534.121 8.374.121 18.577c0 7.06 3.819 12.656 9.249 14.728H.334l.268 2.113c1.052 8.297 8.298 13.889 16.77 13.889 5.66 0 10.35-2.302 13.601-6.574 3.224-4.237 4.889-10.22 4.889-17.327 0-6.893-1.614-13-4.818-17.302ZM14.343 34.17l.12.443c.196.715 1.22 1.729 3.09 1.729 1.383 0 2.564-.746 3.418-2.408.345-.671.635-1.495.846-2.473-1.896 1.674-4.432 2.664-7.474 2.709Zm-.374-15.97c0 2.034 1.442 3.674 3.455 3.674 1.939 0 3.378-1.616 3.378-3.675 0-2.106-1.456-3.732-3.378-3.732-1.975 0-3.455 1.656-3.455 3.732Zm-1.65 0c0 3.124 2.243 5.526 5.105 5.526 2.81 0 5.029-2.402 5.029-5.527 0-3.154-2.218-5.584-5.029-5.584-2.836 0-5.106 2.43-5.106 5.584Z" fill="#fff"></path></svg>`
 const rank10=`<span class="blind">10</span>
 <svg width="59" height="50" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M9.85 46.296v.926h12.576V6.226H10.503l-.23.15-8.925 5.811-.42.274v11.826l1.425-.915 7.499-4.809v27.733ZM40.753 48.307c5.199 0 9.484-2.088 12.446-5.905 2.942-3.791 4.52-9.208 4.52-15.8 0-6.647-1.598-12.014-4.555-15.74-2.976-3.75-7.262-5.748-12.411-5.748-5.15 0-9.442 2.006-12.424 5.762-2.963 3.732-4.568 9.106-4.568 15.753 0 6.606 1.585 12.017 4.535 15.798 2.969 3.807 7.26 5.88 12.457 5.88Zm0-10.695c-1 0-2.028-.617-2.855-2.397-.834-1.796-1.372-4.62-1.372-8.586 0-3.981.538-6.76 1.369-8.506.817-1.72 1.837-2.314 2.858-2.314 1.019 0 2.033.592 2.844 2.311.826 1.748 1.358 4.527 1.358 8.51 0 3.967-.532 6.79-1.361 8.587-.822 1.78-1.842 2.395-2.841 2.395Z" fill="#000" stroke="#fff" stroke-width="1.852"></path></svg>`
+rankArr=[rank1, rank2, rank3, rank4, rank5, rank6, rank7, rank8, rank9, rank10];
 
-fetch('./assets/data/genrePure.json')
-.then(res=>res.json())
-.then(json=>{
-  data=json.titleList;
+genreTitle=[
+    {
+        id:1001,
+        title:"로맨스"
+    },
+    {
+        id:1002,
+        title:"판타지"
+    },
+    {
+        id:1003,
+        title:"액션"
+    },
+    {
+        id:1004,
+        title:"일상"
+    },
+    {
+        id:1005,
+        title:"스릴러"
+    },
+    {
+        id:1006,
+        title:"개그"
+    },
+    {
+        id:1007,
+        title:"무협/사극"
+    },
+    {
+        id:1008,
+        title:"드라마"
+    },
+    {
+        id:1009,
+        title:"감성"
+    },
+    {
+        id:1010,
+        title:"스포츠"
+    }
+]
 
-  let html=``;
-  data.forEach(element => {
-    isAdult = (element.thumbnailBadgeList.includes("ADULT"))?icAdult:''
+genreList(1001);
+function genreList(a){
+    fetch('./assets/data/genrePure.json')
+    .then(res=>res.json())
+    .then(json=>{
+      data=json.titleList;
+    
+      const slide2 = new Swiper('.hot-slide',{   
+        slidesPerView: 5,
+        slidesPerGroup: 5,
+        navigation: {
+            nextEl: ".hot-next",
+            prevEl: ".hot-prev",
+        },
+    })
+      let html=``;
+      sortData=data.filter(function(parm){
+        return parm.genre === a;
+      })
+      sortData.forEach((element,index) => {
+        isAdult = (element.thumbnailBadgeList.includes("ADULT"))?icAdult:''
+        html+=`<div class="swiper-slide">
+        <div class="img-area">
+            <a href="">
+                ${isAdult}
+                <img src="${element.thumbnailUrl}" alt>
+            </a>
+            <span class="number">
+                ${rankArr[index]}
+            </span>
+        </div>
+        <strong><a href="">${element.titleName}</a></strong>
+    </div>`
+      });
+      $('#genreList').html(html);
+      slide2.update();
+    })
+}  
+$('.sc-hot .title-list a').click(function(e){
+    e.preventDefault();
+    $('.sc-hot .title-list a').removeClass('active');
 
-    isRank = (element.rank == 1)?rank1:
-    (element.rank == 2)?rank2:
-    (element.rank == 3)?rank3:
-    (element.rank == 4)?rank4:
-    (element.rank == 5)?rank5:
-    (element.rank == 6)?rank6:
-    (element.rank == 7)?rank7:
-    (element.rank == 8)?rank8:
-    (element.rank == 9)?rank9:
-    (element.rank == 10)?rank10:
-    '';
+    $(this).addClass('active');
+    dataGenre = $(this).data('genre');
+    genreList(dataGenre)
 
-    html+=`<div class="swiper-slide">
-    <div class="img-area">
-        <a href="">
-            ${isAdult}
-            <img src="${element.thumbnailUrl}" alt>
-        </a>
-        <span class="number">
-            ${isRank}
-        </span>
-    </div>
-    <strong><a href="">${element.titleName}</a></strong>
-</div>`
-  });
-  $('#genreList').html(html);
+    function isGenre(element)  {
+        if(element.id === dataGenre)  {
+          return true;
+        }
+      }
+      const genreText = genreTitle.find(isGenre).title;
+      $('.genreType').html(genreText);      
 })
-
 
 
 // 베스트도전
@@ -224,6 +272,16 @@ fetch('./assets/data/updateDaily.json')
   $('#updateDailyList').html(html);
 })
 
+const slide3 = new Swiper('.update-slide',{   
+    slidesPerView: 5,
+    slidesPerGroup: 5,
+    navigation: {
+        nextEl: ".update-next",
+        prevEl: ".update-prev",
+    },
+})
+
+
 // 묶음
 fetch('./assets/data/bundle.json')
 .then(res=>res.json())
@@ -245,10 +303,17 @@ fetch('./assets/data/bundle.json')
   });
   $('#bundleList').html(html);
 })
+const slide4 = new Swiper('.discount-slide',{   
+    slidesPerView: 5,
+    slidesPerGroup: 5,
+    navigation: {
+        nextEl: ".discount-next",
+        prevEl: ".discount-prev",
+    },
+})
 
 
 // 실시간인기랭킹
-idx = 0;
 rankingDefaultList();
 function rankingDefaultList(){
     fetch('./assets/data/rankingDefault.json')
@@ -281,10 +346,9 @@ function rankingDefaultList(){
       $('#rankingDefaultList').html(html);
     })
 }
-
 $('.sc-popular .tab-list a').click(function(e){
     e.preventDefault();
-    $(this).parent().siblings().children().removeClass('active');
+    $('.sc-popular .tab-list a').removeClass('active');
     $(this).addClass('active');
     idx=$(this).parent().index();
     rankingDefaultList();
@@ -327,7 +391,7 @@ function rankingNewList(){
 
 $('.sc-ranking .tab-list a').click(function(e){
     e.preventDefault();
-    $(this).parent().siblings().children().removeClass('active');
+    $('.sc-ranking .tab-list a').removeClass('active');
     $(this).addClass('active');
     idx=$(this).parent().index();
     rankingNewList();
